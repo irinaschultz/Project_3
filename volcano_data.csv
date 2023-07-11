@@ -1,0 +1,810 @@
+Volcano_Type,Volcano_Name,Volcanic_Explosivity_Index,Elevation,Status,Deaths,Total_Deaths,Country,Coordinates,Year,Month,Day,Flag_Tsunami,Flag_Earthquake
+Shield volcano,Santorini,3,329,Historical,0,0,Greece,"36.404, 25.396",46,0,0,TRUE,FALSE
+Pyroclastic shield,Ambrym,6,1334,Historical,0,0,Vanuatu,"-16.25, 168.12",50,0,0,FALSE,FALSE
+Stratovolcano,Bona-Churchill,6,5005,Radiocarbon,0,0,United States,"61.38, -141.75",60,0,0,FALSE,FALSE
+Complex volcano,Vesuvius,5,1281,Historical,2100,2100,Italy,"40.821, 14.426",79,8,25,TRUE,TRUE
+Volcanic field,"Arhab, Harra of",0,3100,Historical,0,0,Yemen,"15.63, 44.08",200,0,0,FALSE,FALSE
+Caldera,Taupo,6,760,Radiocarbon,0,0,New Zealand,"-38.82, 176.0",230,0,0,FALSE,FALSE
+Stratovolcano,Ksudach,6,1079,Historical,0,0,Russia,"51.8, 157.53",240,0,0,FALSE,FALSE
+Lava dome,Augustine,0,1252,Historical,0,0,United States,"59.37, -153.42",350,0,0,FALSE,FALSE
+Caldera,Krakatau,0,813,Historical,0,0,Indonesia,"-6.102, 105.423",416,0,0,TRUE,FALSE
+Caldera,Ilopango,6,450,Historical,30000,30000,El Salvador,"13.672, -89.053",450,0,0,FALSE,FALSE
+Volcanic field,"Arhab, Harra of",0,3100,Historical,0,0,Yemen,"15.63, 44.08",500,0,0,FALSE,FALSE
+Stratovolcano,San Salvador,0,1893,Historical,0,0,El Salvador,"13.736, -89.286",590,0,0,FALSE,FALSE
+Volcanic field,"Uwayrid, Harrat",2,1900,Anthropology,0,0,Saudi Arabia,"27.08, 37.25",640,0,0,FALSE,FALSE
+Caldera,Dakataua,6,400,Anthropology,0,0,Papua New Guinea,"-5.056, 150.108",653,0,0,FALSE,FALSE
+Pyroclastic shield,Rabaul,6,688,Historical,0,0,Papua New Guinea,"-4.271, 152.203",683,0,0,FALSE,FALSE
+Caldera,Pago,6,742,Historical,0,0,Papua New Guinea,"-5.58, 150.52",710,0,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,4,1117,Historical,80,80,Japan,"31.58, 130.67",764,0,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,3,1117,Historical,0,0,Japan,"31.58, 130.67",766,7,20,TRUE,TRUE
+Complex volcano,Vesuvius,3,1281,Historical,0,0,Italy,"40.821, 14.426",787,0,0,FALSE,FALSE
+Stratovolcano,Bona-Churchill,6,5005,Radiocarbon,0,0,United States,"61.38, -141.75",847,0,0,FALSE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",920,0,0,FALSE,FALSE
+Stratovolcano,Ceboruco,6,2280,Historical,0,0,Mexico,"21.125, -104.508",930,0,0,FALSE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",934,0,0,FALSE,FALSE
+Subglacial volcano,Katla,0,1512,Historical,0,0,Iceland,"63.63, -19.05",950,0,0,FALSE,FALSE
+Stratovolcano,Changbaishan,7,2744,Historical,0,0,North Korea,"41.98, 128.08",1000,0,0,FALSE,FALSE
+Shield volcano,Santorini,0,329,Historical,0,0,Greece,"36.404, 25.396",1050,0,0,TRUE,FALSE
+Stratovolcano,Hekla,5,1491,Historical,0,0,Iceland,"63.98, -19.7",1104,10,15,FALSE,FALSE
+Crater rows,Krisuvik,1,379,Historical,0,0,Iceland,"63.93, -22.1",1151,0,0,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,0,0,Iceland,"63.98, -19.7",1158,1,19,FALSE,FALSE
+Stratovolcano,Etna,0,3350,Historical,0,16000,Italy,"37.734, 15.004",1169,2,4,TRUE,TRUE
+Stratovolcano,Etna,0,3350,Historical,0,0,Italy,"37.734, 15.004",1169,2,11,TRUE,FALSE
+Subglacial volcano,Katla,3,1512,Historical,0,0,Iceland,"63.63, -19.05",1177,0,0,FALSE,FALSE
+Stratovolcano,Hekla,2,1491,Historical,0,0,Iceland,"63.98, -19.7",1206,12,4,FALSE,FALSE
+Stratovolcano,Fentale,0,2007,Historical,0,0,Ethiopia,"8.975, 39.93",1250,0,0,FALSE,FALSE
+Subglacial volcano,Katla,3,1512,Historical,0,0,Iceland,"63.63, -19.05",1262,0,0,FALSE,FALSE
+Caldera,Quilotoa,6,3914,Radiocarbon,0,0,Ecuador,"-0.85, -78.9",1280,0,0,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,0,600,Iceland,"63.98, -19.7",1300,7,11,FALSE,FALSE
+Complex volcano,Ischia,0,789,Historical,0,0,Italy,"40.73, 13.897",1302,0,0,FALSE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",1311,1,18,FALSE,FALSE
+Stratovolcano,Kelut,3,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1311,0,0,FALSE,FALSE
+Stratovolcano,Etna,3,3350,Historical,0,0,Italy,"37.734, 15.004",1329,6,28,TRUE,TRUE
+Stratovolcano,Etna,1,3350,Historical,0,0,Italy,"37.734, 15.004",1329,7,0,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,0,0,Japan,"32.88, 131.1",1331,12,0,FALSE,FALSE
+Stratovolcano,Kelut,3,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1334,0,0,FALSE,FALSE
+Stratovolcano,Hekla,3,1491,Historical,0,0,Iceland,"63.98, -19.7",1341,5,19,FALSE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",1357,0,0,FALSE,FALSE
+Stratovolcano,Oraefajokull,5,2119,Historical,220,220,Iceland,"64.0, -16.65",1362,6,5,FALSE,FALSE
+Tuff cone,"Chichon, El",5,1150,Historical,0,0,Mexico,"17.36, -93.228",1375,0,0,FALSE,FALSE
+Stratovolcano,Kelut,3,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1376,0,0,FALSE,FALSE
+Stratovolcano,Kelut,3,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1385,0,0,FALSE,FALSE
+Stratovolcano,Hekla,3,1491,Historical,0,0,Iceland,"63.98, -19.7",1389,12,1,FALSE,FALSE
+Stratovolcano,Nasu,3,1917,Historical,180,180,Japan,"37.12, 139.97",1410,3,5,FALSE,FALSE
+Caldera,Kuwae,0,-2,Historical,0,0,Vanuatu,"-16.829, 168.536",1430,0,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,5,1117,Historical,0,0,Japan,"31.58, 130.67",1471,11,3,FALSE,FALSE
+Stratovolcano,Bardarbunga,6,2000,Historical,0,0,Iceland,"64.63, -17.53",1477,2,0,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,1,1,Japan,"32.88, 131.1",1485,1,0,FALSE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",1500,0,0,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,1,1,Iceland,"63.98, -19.7",1510,7,25,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,0,0,Iceland,"63.98, -19.7",1510,10,15,FALSE,FALSE
+Stratovolcano,Etna,3,3350,Historical,1,1,Italy,"37.734, 15.004",1536,3,23,FALSE,FALSE
+Caldera,Campi Flegrei,3,458,Historical,24,24,Italy,"40.827, 14.139",1538,9,29,FALSE,FALSE
+Lava dome,Augustine,4,1252,Historical,0,0,United States,"59.37, -153.42",1540,0,0,TRUE,FALSE
+Complex volcano,Dukono,3,1185,Historical,0,0,Indonesia,"1.68, 127.88",1550,11,0,FALSE,FALSE
+Stratovolcano,Gamkonora,3,1635,Historical,0,0,Indonesia,"1.375, 127.52",1564,12,31,FALSE,FALSE
+Complex volcano,Pacaya,3,2552,Historical,0,0,Guatemala,"14.381, -90.601",1565,8,0,FALSE,TRUE
+Shield volcano,Kirishima,3,1700,Historical,0,0,Japan,"31.93, 130.87",1566,10,31,FALSE,FALSE
+Stratovolcano,Savo,3,510,Historical,1001,1001,Solomon Is.,"-9.13, 159.82",1568,0,0,FALSE,FALSE
+Stratovolcano,Mombacho,0,1344,Holocene,400,400,Nicaragua,"11.826, -85.968",1570,0,0,FALSE,FALSE
+Stratovolcano,Colima,3,3850,Historical,0,0,Mexico,"19.514, -103.62",1576,0,0,FALSE,FALSE
+Fissure vent,San Jorge,3,1053,Historical,10,10,Portugal,"38.65, -28.08",1580,5,1,FALSE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",1580,8,11,FALSE,FALSE
+Pyroclastic shield,Billy Mitchell,6,1544,Radiocarbon,0,0,Papua New Guinea,"-6.092, 155.225",1580,0,0,FALSE,FALSE
+Stratovolcano,Fuego,4,3763,Historical,0,0,Guatemala,"14.473, -90.88",1581,12,26,FALSE,FALSE
+Stratovolcano,Kelut,5,1731,Historical,10000,10000,Indonesia,"-7.93, 112.308",1586,0,0,FALSE,FALSE
+Stratovolcano,Merapi,4,2947,Historical,0,0,Indonesia,"-7.542, 110.442",1587,0,0,FALSE,FALSE
+Stratovolcano,Colima,3,3850,Historical,0,0,Mexico,"19.514, -103.62",1590,1,15,FALSE,FALSE
+Stratovolcano,Raung,5,3332,Historical,0,0,Indonesia,"-8.125, 114.042",1593,0,0,FALSE,FALSE
+Stratovolcano,Ruiz,4,5321,Historical,636,636,Colombia,"4.895, -75.322",1595,3,12,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,0,0,Japan,"36.4, 138.53",1596,5,1,FALSE,FALSE
+Stratovolcano,Raung,3,3332,Historical,0,0,Indonesia,"-8.125, 114.042",1597,0,0,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,0,0,Iceland,"63.98, -19.7",1597,1,3,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,800,800,Japan,"36.4, 138.53",1598,5,13,FALSE,FALSE
+Caldera,Banda Api,3,640,Historical,0,0,Pacific Ocean,"-4.525, 129.871",1598,0,0,FALSE,FALSE
+Stratovolcano,Huaynaputina,6,4850,Historical,1500,1500,Peru,"-16.608, -70.85",1600,2,19,FALSE,TRUE
+Stratovolcano,Hachijo-jima,2,854,Historical,0,0,Japan,"33.13, 139.77",1606,1,23,TRUE,FALSE
+Stratovolcano,Gamalama,3,1715,Historical,0,0,Indonesia,"0.8, 127.325",1608,7,18,TRUE,FALSE
+Pyroclastic cone,Tengchong,0,2865,Historical,0,0,China,"25.32, 98.47",1609,0,0,FALSE,FALSE
+Caldera,Banda Api,3,640,Historical,0,0,Pacific Ocean,"-4.525, 129.871",1615,3,0,FALSE,FALSE
+Stratovolcano,Fuego,3,3763,Historical,0,0,Guatemala,"14.473, -90.88",1617,0,0,FALSE,FALSE
+Subglacial volcano,Katla,5,1512,Historical,0,0,Iceland,"63.63, -19.05",1625,9,2,FALSE,FALSE
+Caldera,Grimsvotn,2,1725,Historical,4,4,Iceland,"64.42, -17.33",1629,0,0,FALSE,FALSE
+Stratovolcano,Furnas,4,805,Historical,200,200,Portugal,"37.77, -25.32",1630,9,3,FALSE,FALSE
+Shield volcano,Dama Ali,0,1068,Historical,50,50,Ethiopia,"11.28, 41.63",1631,2,14,FALSE,TRUE
+Complex volcano,Vesuvius,5,1281,Historical,4000,4000,Italy,"40.821, 14.426",1631,12,16,TRUE,TRUE
+Stratovolcano,Hekla,3,1491,Historical,0,0,Iceland,"63.98, -19.7",1636,5,15,FALSE,FALSE
+Stratovolcano,Raung,4,3332,Historical,1001,1001,Indonesia,"-8.125, 114.042",1638,0,0,FALSE,FALSE
+Stratovolcano,Komaga-take,5,1140,Historical,0,700,Japan,"42.07, 140.68",1640,7,31,TRUE,TRUE
+Stratovolcano,Tungurahua,3,5023,Historical,5000,5000,Ecuador,"-1.467, -78.442",1640,0,0,FALSE,FALSE
+Stratovolcano,Makian,4,1357,Historical,0,0,Indonesia,"0.32, 127.4",1646,7,19,FALSE,FALSE
+Shield volcano,Santorini,4,329,Historical,120,120,Greece,"36.404, 25.396",1650,9,26,TRUE,FALSE
+Stratovolcano,Teon,4,655,Historical,0,0,Pacific Ocean,"-6.92, 129.125",1659,11,11,TRUE,FALSE
+Stratovolcano,San Salvador,3,1893,Historical,0,0,El Salvador,"13.736, -89.286",1659,9,30,FALSE,TRUE
+Stratovolcano,Teon,4,655,Historical,3,3,Pacific Ocean,"-6.92, 129.125",1660,2,0,FALSE,FALSE
+Complex volcano,Long Island,6,1280,Historical,2000,2000,Papua New Guinea,"-5.358, 147.12",1660,0,0,TRUE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",1660,11,3,FALSE,FALSE
+Stratovolcano,Usu,5,731,Historical,5,5,Japan,"42.53, 140.83",1663,8,16,FALSE,FALSE
+Complex volcano,Unzen,2,1500,Historical,30,30,Japan,"32.75, 130.3",1664,4,15,FALSE,FALSE
+Complex volcano,Iwo-Tori-shima,0,217,Historical,0,0,Japan,"27.85, 128.25",1664,0,0,TRUE,FALSE
+Stratovolcano,Etna,3,3350,Historical,0,0,Italy,"37.734, 15.004",1669,3,11,FALSE,TRUE
+Stratovolcano,Etna,3,3350,Historical,2,2,Italy,"37.734, 15.004",1669,3,19,FALSE,FALSE
+Shield volcano,Aoba,2,1496,Historical,0,0,Vanuatu,"-15.4, 167.83",1670,0,0,FALSE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,3000,3000,Indonesia,"-7.542, 110.442",1672,8,4,FALSE,FALSE
+Stratovolcano,Fayal,2,1043,Historical,3,3,Portugal,"38.6, -28.73",1672,4,24,FALSE,FALSE
+Stratovolcano,Gamkonora,5,1635,Historical,0,0,Indonesia,"1.375, 127.52",1673,5,20,TRUE,FALSE
+Stratovolcano,La Palma,2,2426,Historical,1,1,Spain,"28.58, -17.83",1677,11,22,FALSE,FALSE
+Shield volcano,Zukur,0,624,Holocene,0,0,Yemen,"14.02, 42.75",1679,9,21,FALSE,TRUE
+Complex volcano,Vesuvius,3,1281,Historical,4,4,Italy,"40.821, 14.426",1682,8,12,FALSE,FALSE
+Caldera,Grimsvotn,2,1725,Historical,1,1,Iceland,"64.42, -17.33",1684,12,0,FALSE,FALSE
+Complex volcano,Vesuvius,0,1281,Historical,0,0,Italy,"40.821, 14.426",1690,2,3,TRUE,FALSE
+Complex volcano,Guntur,3,2249,Historical,0,0,Indonesia,"-7.13, 107.83",1690,0,0,FALSE,FALSE
+Stratovolcano,Serua,4,641,Historical,0,0,Pacific Ocean,"-6.3, 130.0",1692,6,4,FALSE,FALSE
+Stratovolcano,Etna,0,3350,Historical,0,0,Italy,"37.734, 15.004",1693,1,9,FALSE,TRUE
+Stratovolcano,Hekla,4,1491,Historical,0,0,Iceland,"63.98, -19.7",1693,2,13,TRUE,FALSE
+Caldera,Banda Api,3,640,Historical,0,0,Pacific Ocean,"-4.525, 129.871",1694,11,20,FALSE,FALSE
+Stratovolcano,Cotopaxi,3,5911,Historical,0,0,Ecuador,"-0.677, -78.436",1698,0,0,FALSE,FALSE
+Complex volcano,Vesuvius,3,1281,Historical,0,0,Italy,"40.821, 14.426",1698,5,0,TRUE,FALSE
+Stratovolcano,Cereme,3,3078,Historical,0,0,Indonesia,"-6.892, 108.4",1698,0,0,FALSE,FALSE
+Stratovolcano,Tenerife,2,3715,Historical,0,0,Spain,"28.271, -16.641",1706,5,5,TRUE,FALSE
+Shield volcano,Santorini,0,329,Historical,0,0,Greece,"36.404, 25.396",1707,5,0,TRUE,FALSE
+Stratovolcano,Fuji,4,3776,Historical,0,0,Japan,"35.35, 138.73",1707,12,16,FALSE,TRUE
+Stratovolcano,Awu,3,1320,Historical,3000,3000,Indonesia,"3.67, 125.5",1711,12,11,FALSE,FALSE
+Stratovolcano,Bardarbunga,2,2000,Historical,0,0,Iceland,"64.63, -17.53",1712,1,15,FALSE,FALSE
+Complex volcano,Vesuvius,0,1281,Historical,0,0,Italy,"40.821, 14.426",1714,6,30,TRUE,FALSE
+Shield volcano,Kirishima,3,1700,Historical,1,1,Japan,"31.93, 130.87",1716,11,9,FALSE,FALSE
+Stratovolcano,Bardarbunga,2,2000,Historical,0,0,Iceland,"64.63, -17.53",1716,10,5,FALSE,FALSE
+Stratovolcano,Taal,4,400,Historical,0,0,Philippines,"14.002, 120.993",1716,9,24,TRUE,TRUE
+Stratovolcano,Kelut,2,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1716,7,20,FALSE,FALSE
+Stratovolcano,Bardarbunga,3,2000,Historical,0,0,Iceland,"64.63, -17.53",1717,8,4,FALSE,FALSE
+Shield volcano,Kirishima,3,1700,Historical,1,1,Japan,"31.93, 130.87",1717,2,7,FALSE,FALSE
+Stratovolcano,Fuego,3,3763,Historical,0,0,Guatemala,"14.473, -90.88",1717,8,27,FALSE,FALSE
+Stratovolcano,Pico,2,2351,Historical,2,2,Portugal,"38.47, -28.4",1718,2,1,FALSE,FALSE
+Complex volcano,Asama,1,2560,Historical,15,15,Japan,"36.4, 138.53",1721,6,22,FALSE,FALSE
+Subglacial volcano,Katla,5,1512,Historical,0,0,Iceland,"63.63, -19.05",1721,5,11,FALSE,FALSE
+Stratovolcano,Bardarbunga,1,2000,Historical,0,0,Iceland,"64.63, -17.53",1726,2,1,FALSE,FALSE
+Stratovolcano,Oraefajokull,4,2119,Historical,3,3,Iceland,"64.0, -16.65",1727,8,3,FALSE,FALSE
+Caldera,Krafla,2,650,Historical,0,0,Iceland,"65.73, -16.78",1729,6,30,FALSE,FALSE
+Stratovolcano,Bardarbunga,1,2000,Historical,0,0,Iceland,"64.63, -17.53",1729,2,1,FALSE,FALSE
+Pyroclastic cone,Tseax River Cone,0,609,Radiocarbon,0,0,Canada,"55.12, -128.9",1730,0,0,FALSE,FALSE
+Stratovolcano,Raung,3,3332,Historical,0,0,Indonesia,"-8.125, 114.042",1730,0,0,FALSE,FALSE
+Fissure vent,Lanzarote,2,670,Historical,0,0,Spain,"29.03, -13.63",1730,9,1,FALSE,FALSE
+Complex volcano,Vesuvius,2,1281,Historical,2,2,Italy,"40.821, 14.426",1737,5,20,FALSE,FALSE
+Stratovolcano,Oshima-Oshima,4,737,Historical,0,2000,Japan,"41.5, 139.37",1741,8,23,TRUE,FALSE
+Stratovolcano,Cotopaxi,3,5911,Historical,0,0,Ecuador,"-0.677, -78.436",1742,12,9,FALSE,FALSE
+Stratovolcano,Cotopaxi,3,5911,Historical,0,0,Ecuador,"-0.677, -78.436",1742,6,15,FALSE,FALSE
+Stratovolcano,Taal,3,400,Historical,0,0,Philippines,"14.002, 120.993",1749,8,11,TRUE,TRUE
+Caldera,Grimsvotn,2,1725,Historical,0,0,Iceland,"64.42, -17.33",1753,10,15,FALSE,FALSE
+Stratovolcano,Taal,4,400,Historical,12,12,Philippines,"14.002, 120.993",1754,5,13,TRUE,TRUE
+Subglacial volcano,Katla,4,1512,Historical,2,2,Iceland,"63.63, -19.05",1755,10,17,FALSE,FALSE
+Fissure vent,San Jorge,0,1053,Historical,0,1053,Portugal,"38.65, -28.08",1757,7,9,FALSE,TRUE
+Stratovolcano,Makian,4,1357,Historical,2000,2000,Indonesia,"0.32, 127.4",1760,0,0,FALSE,FALSE
+Stratovolcano,Kliuchevskoi,2,4835,Historical,0,0,Russia,"56.057, 160.638",1762,0,0,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,0,0,Iceland,"63.98, -19.7",1766,4,5,FALSE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,49,49,Philippines,"13.257, 123.685",1766,7,20,FALSE,FALSE
+Stratovolcano,Cotopaxi,4,5911,Historical,0,0,Ecuador,"-0.677, -78.436",1768,4,4,FALSE,FALSE
+Stratovolcano,Papandayan,3,2665,Historical,2957,2957,Indonesia,"-7.32, 107.73",1772,8,12,FALSE,FALSE
+Stratovolcano,Gamalama,3,1715,Historical,35,35,Indonesia,"0.8, 127.325",1772,5,9,TRUE,FALSE
+Stratovolcano,Gamalama,2,1715,Historical,0,0,Indonesia,"0.8, 127.325",1773,2,2,FALSE,FALSE
+Stratovolcano,Gamalama,3,1715,Historical,1300,1300,Indonesia,"0.8, 127.325",1775,0,0,FALSE,FALSE
+Stratovolcano,Lokon-Empung,3,1580,Historical,0,0,Indonesia,"1.358, 124.792",1775,0,0,FALSE,FALSE
+Stratovolcano,Raikoke,4,551,Historical,15,15,Russia,"48.292, 153.25",1778,0,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,4,1117,Historical,153,153,Japan,"31.58, 130.67",1779,11,8,FALSE,FALSE
+Complex volcano,Vesuvius,2,1281,Historical,0,0,Italy,"40.821, 14.426",1779,8,8,FALSE,FALSE
+Stratovolcano,Sakura-jima,0,1117,Historical,0,0,Japan,"31.58, 130.67",1780,10,31,TRUE,FALSE
+Stratovolcano,Sakura-jima,4,1117,Historical,0,0,Japan,"31.58, 130.67",1780,9,9,TRUE,FALSE
+Stratovolcano,Aoga-shima,3,423,Historical,7,7,Japan,"32.45, 139.77",1780,7,27,FALSE,FALSE
+Stratovolcano,Sakura-jima,4,1117,Historical,0,0,Japan,"31.58, 130.67",1780,2,9,FALSE,FALSE
+Stratovolcano,Sakura-jima,4,1117,Historical,23,38,Japan,"31.58, 130.67",1781,4,11,TRUE,FALSE
+Complex volcano,Asama,4,2560,Historical,1491,1491,Japan,"36.4, 138.53",1783,8,5,FALSE,FALSE
+Stratovolcano,Sabancaya,0,5967,Historical,0,0,Peru,"-15.78, -71.85",1784,7,0,FALSE,FALSE
+Shield volcano,Hualalai,0,2523,Historical,0,0,United States,"19.692, -155.87",1784,0,0,FALSE,FALSE
+Caldera,Grimsvotn,4,1725,Historical,0,9350,Iceland,"64.42, -17.33",1784,4,0,FALSE,FALSE
+Stratovolcano,Aoga-shima,3,423,Historical,135,135,Japan,"32.45, 139.77",1785,4,18,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,2,2565,Historical,38,38,Indonesia,"-7.2, 109.92",1786,0,0,FALSE,FALSE
+Stratovolcano,Oshima,2,758,Historical,0,0,Japan,"34.73, 139.38",1789,0,0,FALSE,FALSE
+Shield volcano,Kilauea,4,1222,Historical,5405,5405,United States,"19.425, -155.292",1790,11,0,FALSE,FALSE
+Complex volcano,Unzen,2,1500,Historical,0,15000,Japan,"32.75, 130.3",1792,5,21,TRUE,TRUE
+Complex volcano,Vesuvius,3,1281,Historical,400,400,Italy,"40.821, 14.426",1794,6,15,FALSE,FALSE
+Stratovolcano,Kieyo,2,2175,Historical,0,0,Tanzania,"-9.23, 33.78",1800,0,0,FALSE,FALSE
+Shield volcano,Hualalai,0,2523,Historical,2,2,United States,"19.692, -155.87",1800,0,0,FALSE,FALSE
+Complex volcano,Guntur,0,2249,Historical,0,0,Indonesia,"-7.13, 107.83",1800,10,8,FALSE,FALSE
+Fissure vent,San Jorge,1,1053,Historical,9,9,Portugal,"38.65, -28.08",1800,6,24,FALSE,FALSE
+Stratovolcano,St. Helens,5,2549,Historical,0,0,United States,"46.2, -122.18",1800,0,0,FALSE,FALSE
+Stratovolcano,Mayon,2,2462,Historical,0,0,Philippines,"13.257, 123.685",1800,10,30,FALSE,FALSE
+Stratovolcano,Chokai,2,2237,Historical,8,8,Japan,"39.08, 140.03",1801,7,0,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,0,0,Japan,"36.4, 138.53",1803,11,7,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,0,0,Japan,"36.4, 138.53",1803,7,4,FALSE,FALSE
+Caldera,Shikotsu,3,1320,Historical,0,0,Japan,"42.7, 141.33",1804,0,0,FALSE,FALSE
+Complex volcano,Vesuvius,2,1281,Historical,4,4,Italy,"40.821, 14.426",1805,8,11,FALSE,FALSE
+Stratovolcano,Awu,3,1320,Historical,953,953,Indonesia,"3.67, 125.5",1812,8,6,FALSE,FALSE
+Stratovolcano,Soufriere St. Vincent,4,1220,Historical,56,56,St. Vincent & the Grenadines,"13.33, -61.18",1812,4,27,FALSE,FALSE
+Complex volcano,Vesuvius,2,1281,Historical,0,0,Italy,"40.821, 14.426",1813,5,0,TRUE,FALSE
+Stratovolcano,Mayon,4,2462,Historical,1200,1200,Philippines,"13.257, 123.685",1814,2,1,FALSE,FALSE
+Stratovolcano,Tambora,7,2850,Historical,11000,60000,Indonesia,"-8.25, 118.0",1815,4,10,TRUE,FALSE
+Caldera,Aso,2,1592,Historical,1,1,Japan,"32.88, 131.1",1816,7,5,FALSE,FALSE
+Stratovolcano,Ijen,2,2799,Historical,0,0,Indonesia,"-8.058, 114.242",1817,1,24,FALSE,FALSE
+Stratovolcano,Raung,4,3332,Historical,0,0,Indonesia,"-8.125, 114.042",1817,0,0,FALSE,FALSE
+Stratovolcano,Colima,4,3850,Historical,0,0,Mexico,"19.514, -103.62",1818,2,5,FALSE,FALSE
+Stratovolcano,Asuncion,0,857,Historical,0,0,United States,"19.67, 145.4",1819,0,0,TRUE,FALSE
+Stratovolcano,Westdahl,2,1654,Historical,0,0,United States,"54.52, -164.65",1820,3,1,TRUE,TRUE
+Caldera,Banda Api,2,640,Historical,0,0,Pacific Ocean,"-4.525, 129.871",1820,6,11,FALSE,FALSE
+Stratovolcano,Usu,4,731,Historical,50,50,Japan,"42.53, 140.83",1822,3,9,FALSE,FALSE
+Stratovolcano,Galunggung,5,2168,Historical,4011,4011,Indonesia,"-7.25, 108.05",1822,10,8,FALSE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,100,100,Indonesia,"-7.542, 110.442",1822,12,27,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",1823,2,0,FALSE,FALSE
+Stratovolcano,Balbi,0,2715,Holocene,0,0,Papua New Guinea,"-5.83, 154.98",1825,0,0,FALSE,FALSE
+Stratovolcano,Shishaldin,3,2857,Historical,0,0,United States,"54.75, -163.97",1825,3,21,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,2,2565,Historical,0,0,Indonesia,"-7.2, 109.92",1826,10,11,FALSE,FALSE
+Stratovolcano,Kelut,3,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1826,10,11,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,0,0,Japan,"32.88, 131.1",1826,10,0,FALSE,FALSE
+Stratovolcano,Avachinsky,2,2741,Historical,0,0,Russia,"53.255, 158.83",1827,8,9,FALSE,FALSE
+Stratovolcano,Avachinsky,2,2741,Historical,0,0,Russia,"53.255, 158.83",1827,6,27,TRUE,TRUE
+Complex volcano,Guntur,2,2249,Historical,0,0,Indonesia,"-7.13, 107.83",1829,0,0,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,0,0,Italy,"37.734, 15.004",1832,11,1,FALSE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,32,32,Indonesia,"-7.542, 110.442",1832,12,25,FALSE,FALSE
+Stratovolcano,Kaba,2,1952,Historical,126,126,Indonesia,"-3.52, 102.62",1833,11,24,FALSE,FALSE
+Caldera,Banda Api,0,640,Historical,0,0,Pacific Ocean,"-4.525, 129.871",1835,11,1,FALSE,TRUE
+Stratovolcano,Cosiguina,5,872,Historical,0,0,Nicaragua,"12.98, -87.57",1835,1,20,FALSE,FALSE
+Complex volcano,Peuet Sague,0,2801,Historical,0,0,Indonesia,"4.914, 96.329",1837,9,0,TRUE,TRUE
+Stratovolcano,Gamalama,2,1715,Historical,4,4,Indonesia,"0.8, 127.325",1838,2,26,FALSE,FALSE
+Submarine volcano,Unnamed,2,-642,Uncertain,0,0,Chile,"-33.62, -76.83",1839,2,12,TRUE,FALSE
+Stratovolcano,Gamalama,2,1715,Historical,0,0,Indonesia,"0.8, 127.325",1840,2,2,TRUE,FALSE
+Stratovolcano,Savo,3,510,Historical,0,0,Solomon Is.,"-9.13, 159.82",1840,0,0,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",1840,5,30,TRUE,FALSE
+Stratovolcano,Ararat,3,5165,Holocene,1900,1900,Turkey,"39.7, 44.28",1840,7,2,FALSE,FALSE
+Stratovolcano,Tinakula,3,851,Historical,0,0,Solomon Is.,"-10.38, 165.8",1840,0,0,FALSE,FALSE
+Stratovolcano,Kuchinoerabu-jima,2,649,Historical,0,0,Japan,"30.43, 130.22",1841,4,0,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,56,56,Italy,"37.734, 15.004",1843,11,17,FALSE,FALSE
+Stratovolcano,Liamuiga,0,1156,Radiocarbon,0,0,St. Kitts & Nevis,"17.37, -62.8",1843,2,8,TRUE,FALSE
+Stratovolcano,Soufriere Guadeloupe,0,1467,Historical,0,0,Guadeloupe,"16.05, -61.67",1843,2,17,TRUE,FALSE
+Stratovolcano,Lamongan,2,1651,Historical,4,4,Indonesia,"-8.0, 113.342",1843,8,0,FALSE,FALSE
+Stratovolcano,Ruiz,3,5321,Historical,1000,1000,Colombia,"4.895, -75.322",1845,2,19,FALSE,FALSE
+Stratovolcano,Soputan,2,1784,Historical,0,118,Indonesia,"1.108, 124.725",1845,2,8,TRUE,TRUE
+Stratovolcano,Hekla,4,1491,Historical,0,0,Iceland,"63.98, -19.7",1845,9,2,FALSE,FALSE
+Stratovolcano,Tangkubanparahu,2,2084,Historical,0,0,Indonesia,"-6.77, 107.6",1846,5,27,FALSE,FALSE
+Caldera,Taupo,0,760,Radiocarbon,63,63,New Zealand,"-38.82, 176.0",1846,5,7,FALSE,FALSE
+Stratovolcano,E-san,1,618,Historical,0,0,Japan,"41.8, 141.17",1846,11,18,FALSE,FALSE
+Stratovolcano,Fogo,2,2829,Historical,0,0,Cape Verde,"14.95, -24.35",1847,4,9,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,2,2565,Historical,0,0,Indonesia,"-7.2, 109.92",1847,12,4,FALSE,FALSE
+Stratovolcano,Kelut,2,1731,Historical,21,21,Indonesia,"-7.93, 112.308",1848,5,16,FALSE,FALSE
+Pyroclastic shield,Rabaul,2,688,Historical,0,0,Papua New Guinea,"-4.271, 152.203",1850,0,0,FALSE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,34,34,Philippines,"13.257, 123.685",1853,7,13,FALSE,FALSE
+Shield volcano,Niuafo'ou,0,260,Historical,25,25,Tonga,"-15.6, -175.63",1853,6,24,FALSE,FALSE
+Submarine volcano,Unnamed,2,0,Historical,0,0,Taiwan,"24.0, 121.83",1853,10,29,TRUE,FALSE
+Caldera,Aso,2,1592,Historical,3,3,Japan,"32.88, 131.1",1854,2,0,FALSE,FALSE
+Stratovolcano,Shiveluch,5,3283,Historical,0,0,Russia,"56.653, 161.36",1854,2,18,FALSE,FALSE
+Stratovolcano,Alaid,3,2339,Historical,0,0,Russia,"50.858, 155.55",1854,6,27,TRUE,FALSE
+Stratovolcano,Shishaldin,0,2857,Historical,0,0,United States,"54.75, -163.97",1856,7,26,TRUE,FALSE
+Stratovolcano,Awu,3,1320,Historical,2806,2806,Indonesia,"3.67, 125.5",1856,3,2,TRUE,TRUE
+Stratovolcano,Komaga-take,4,1140,Historical,20,20,Japan,"42.07, 140.68",1856,9,25,FALSE,FALSE
+Complex volcano,Umboi,0,1548,Holocene,0,0,Papua New Guinea,"-5.589, 147.875",1857,4,17,TRUE,TRUE
+Stratovolcano,Mayon,2,2462,Historical,0,0,Philippines,"13.257, 123.685",1858,1,0,FALSE,FALSE
+Stratovolcano,Tate-yama,0,2621,Historical,0,0,Japan,"36.57, 137.6",1858,4,23,FALSE,TRUE
+Stratovolcano,Tate-yama,0,2621,Historical,0,0,Japan,"36.57, 137.6",1858,7,3,FALSE,FALSE
+Caldera,Grimsvotn,0,1725,Historical,1,1,Iceland,"64.42, -17.33",1860,0,0,FALSE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,0,0,Indonesia,"-8.108, 112.92",1860,4,0,FALSE,FALSE
+Stratovolcano,Fuego,2,3763,Historical,0,0,Guatemala,"14.473, -90.88",1860,8,18,FALSE,FALSE
+Stratovolcano,Makian,4,1357,Historical,326,326,Indonesia,"0.32, 127.4",1861,12,29,FALSE,FALSE
+Stratovolcano,Dubbi,3,1625,Historical,106,106,Eritrea,"13.58, 41.808",1861,5,7,FALSE,TRUE
+Caldera,Grimsvotn,2,1725,Historical,0,0,Iceland,"64.42, -17.33",1861,5,0,FALSE,FALSE
+Stratovolcano,Yasur,0,361,Historical,0,0,Vanuatu,"-19.52, 169.425",1863,8,17,TRUE,TRUE
+Stratovolcano,Kelut,2,1731,Historical,54,54,Indonesia,"-7.93, 112.308",1864,1,3,FALSE,FALSE
+Shield volcano,Ofu-Olosega,2,639,Historical,0,0,United States,"-14.175, -169.618",1866,9,12,TRUE,FALSE
+Shield volcano,Santorini,2,329,Historical,1,1,Greece,"36.404, 25.396",1866,2,20,FALSE,FALSE
+Complex volcano,Zao,2,1841,Historical,3,3,Japan,"38.15, 140.45",1867,10,21,FALSE,FALSE
+Stratovolcano,Etna,0,3350,Historical,0,0,Italy,"37.734, 15.004",1868,9,5,TRUE,TRUE
+Shield volcano,Mauna Loa,2,4170,Historical,0,77,United States,"19.475, -155.608",1868,4,3,TRUE,TRUE
+Stratovolcano,Lamongan,2,1651,Historical,8,8,Indonesia,"-8.0, 113.342",1869,8,0,FALSE,FALSE
+Stratovolcano,Lewotobi,2,1703,Historical,2,2,Indonesia,"-8.53, 122.775",1869,7,7,FALSE,FALSE
+Stratovolcano,Ruang,2,725,Historical,0,0,Indonesia,"2.28, 125.425",1870,8,0,FALSE,FALSE
+Shield volcano,Aoba,2,1496,Historical,0,0,Vanuatu,"-15.4, 167.83",1870,0,0,FALSE,FALSE
+Complex volcano,Iliwerung,3,1018,Historical,0,0,Indonesia,"-8.54, 123.59",1870,0,0,FALSE,FALSE
+Stratovolcano,Gamalama,2,1715,Historical,1,1,Indonesia,"0.8, 127.325",1871,8,7,FALSE,FALSE
+Stratovolcano,Camiguin,2,1332,Historical,0,0,Philippines,"9.203, 124.673",1871,4,30,TRUE,TRUE
+Stratovolcano,Mayon,3,2462,Historical,3,3,Philippines,"13.257, 123.685",1871,12,8,FALSE,FALSE
+Stratovolcano,Ruang,2,725,Historical,0,400,Indonesia,"2.28, 125.425",1871,3,3,TRUE,FALSE
+Stratovolcano,Merapi,4,2947,Historical,30,30,Indonesia,"-7.542, 110.442",1872,4,15,FALSE,FALSE
+Stratovolcano,Merapi,4,2947,Historical,170,170,Indonesia,"-7.542, 110.442",1872,4,17,FALSE,FALSE
+Stratovolcano,Sinarka,4,934,Historical,0,0,Russia,"48.875, 154.175",1872,0,0,FALSE,FALSE
+Stratovolcano,Merapi,4,2947,Historical,200,200,Indonesia,"-7.542, 110.442",1872,11,3,FALSE,FALSE
+Caldera,Aso,3,1592,Historical,4,4,Japan,"32.88, 131.1",1872,12,0,FALSE,FALSE
+Complex volcano,Vesuvius,3,1281,Historical,9,9,Italy,"40.821, 14.426",1872,4,24,FALSE,FALSE
+Complex volcano,Vesuvius,0,1281,Historical,9,9,Italy,"40.821, 14.426",1873,0,0,FALSE,FALSE
+Stratovolcano,Ragang,2,2815,Historical,0,0,Philippines,"7.67, 124.5",1873,1,16,FALSE,FALSE
+Stratovolcano,Taal,2,400,Historical,0,0,Philippines,"14.002, 120.993",1874,7,19,FALSE,FALSE
+Stratovolcano,Miyake-jima,3,815,Historical,1,1,Japan,"34.08, 139.53",1874,7,3,FALSE,FALSE
+Stratovolcano,Mayon,0,2462,Historical,1500,1500,Philippines,"13.257, 123.685",1875,0,0,FALSE,FALSE
+Stratovolcano,Kelut,0,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1875,1,29,FALSE,FALSE
+Stratovolcano,Askja,5,1516,Historical,0,0,Iceland,"65.03, -16.75",1875,3,29,FALSE,FALSE
+Shield volcano,Mauna Loa,0,4170,Historical,0,0,United States,"19.475, -155.608",1877,2,14,TRUE,TRUE
+Stratovolcano,Cotopaxi,4,5911,Historical,340,340,Ecuador,"-0.677, -78.436",1877,6,25,FALSE,FALSE
+Stratovolcano,Yasur,0,361,Historical,0,0,Vanuatu,"-19.52, 169.425",1878,2,11,TRUE,TRUE
+Pyroclastic shield,Rabaul,3,688,Historical,1,1,Papua New Guinea,"-4.271, 152.203",1878,1,0,TRUE,TRUE
+Shield volcano,Okmok,2,1073,Historical,0,0,United States,"53.42, -168.13",1878,8,29,TRUE,TRUE
+Stratovolcano,Yasur,3,361,Historical,0,0,Vanuatu,"-19.52, 169.425",1878,1,10,TRUE,FALSE
+Stratovolcano,Stromboli,2,926,Historical,0,0,Italy,"38.789, 15.213",1879,2,4,TRUE,FALSE
+Shield volcano,Karthala,2,2361,Historical,0,0,Comoros,"-11.75, 43.38",1883,3,0,FALSE,FALSE
+Caldera,Krakatau,0,813,Historical,0,0,Indonesia,"-6.102, 105.423",1883,10,10,TRUE,FALSE
+Lava dome,Augustine,4,1252,Historical,8,8,United States,"59.37, -153.42",1883,10,6,TRUE,FALSE
+Lava cone,Bagana,3,1750,Historical,0,0,Papua New Guinea,"-6.14, 155.195",1883,12,0,FALSE,FALSE
+Caldera,Krakatau,6,813,Historical,2000,36417,Indonesia,"-6.102, 105.423",1883,8,27,TRUE,FALSE
+Caldera,Krakatau,0,813,Historical,0,0,Indonesia,"-6.102, 105.423",1884,2,0,TRUE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,74,74,Indonesia,"-8.108, 112.92",1885,4,18,FALSE,FALSE
+Stratovolcano,Purace,3,4650,Historical,0,0,Colombia,"2.32, -76.4",1885,5,25,FALSE,TRUE
+Shield volcano,Niuafo'ou,4,260,Historical,0,0,Tonga,"-15.6, -175.63",1886,8,31,FALSE,FALSE
+Lava dome,Okataina,2,1111,Historical,153,153,New Zealand,"-38.12, 176.5",1886,6,10,FALSE,FALSE
+Stratovolcano,Tungurahua,4,5023,Historical,2,2,Ecuador,"-1.467, -78.442",1886,1,11,FALSE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,15,15,Philippines,"13.257, 123.685",1887,3,9,FALSE,FALSE
+Stratovolcano,Ritter Island,3,140,Historical,0,0,Papua New Guinea,"-5.52, 148.121",1888,3,13,TRUE,FALSE
+Stratovolcano,Bandai,4,1819,Historical,461,461,Japan,"37.6, 140.08",1888,7,15,FALSE,FALSE
+Submarine volcano,Banua Wuhu,2,-5,Historical,0,0,Indonesia,"3.138, 125.491",1889,9,6,TRUE,TRUE
+Stratovolcano,Makian,2,1357,Historical,0,0,Indonesia,"0.32, 127.4",1890,6,29,FALSE,FALSE
+Stratovolcano,Victory,2,1925,Historical,0,0,Papua New Guinea,"-9.2, 149.07",1890,0,0,FALSE,FALSE
+Caldera,Tofua,2,512,Historical,0,0,Tonga,"-19.75, -175.07",1892,8,30,TRUE,FALSE
+Stratovolcano,Sorikmarapi,2,2145,Historical,180,180,Indonesia,"0.686, 99.539",1892,5,21,FALSE,FALSE
+Stratovolcano,Awu,3,1320,Historical,1532,1532,Indonesia,"3.67, 125.5",1892,6,7,TRUE,FALSE
+Stratovolcano,Calbuco,4,2003,Historical,0,0,Chile,"-41.326, -72.614",1893,1,7,FALSE,FALSE
+Stratovolcano,Azuma,2,2024,Historical,2,2,Japan,"37.73, 140.25",1893,5,19,FALSE,FALSE
+Pyroclastic shield,Ambrym,3,1334,Historical,10,10,Vanuatu,"-16.25, 168.12",1894,10,0,FALSE,FALSE
+Caldera,Dakataua,2,400,Anthropology,0,0,Papua New Guinea,"-5.056, 150.108",1895,0,0,FALSE,FALSE
+Shield volcano,Kirishima,2,1700,Historical,4,4,Japan,"31.93, 130.87",1895,10,16,FALSE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,0,0,Indonesia,"-8.108, 112.92",1895,5,22,FALSE,FALSE
+Stratovolcano,Karkar,2,1839,Historical,1,21,Papua New Guinea,"-4.649, 145.964",1895,6,17,FALSE,FALSE
+Shield volcano,Kirishima,2,1700,Historical,1,1,Japan,"31.93, 130.87",1896,3,15,FALSE,FALSE
+Stratovolcano,Tinakula,2,851,Historical,0,0,Solomon Is.,"-10.38, 165.8",1897,3,26,TRUE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,350,350,Philippines,"13.257, 123.685",1897,5,23,FALSE,FALSE
+Stratovolcano,Manam,2,1807,Historical,2,2,Papua New Guinea,"-4.1, 145.061",1899,0,0,FALSE,FALSE
+Stratovolcano,Dona Juana,4,4150,Historical,55,55,Colombia,"1.47, -76.92",1899,11,13,FALSE,FALSE
+Pumice cone,Tullu Moje,0,2349,Anthropology,0,0,Ethiopia,"8.158, 39.13",1900,0,0,FALSE,FALSE
+Stratovolcano,Adatara,2,1718,Historical,72,72,Japan,"37.62, 140.28",1900,7,17,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,25,25,Japan,"36.4, 138.53",1900,1,22,FALSE,FALSE
+Shield volcano,Kirishima,2,1700,Historical,2,2,Japan,"31.93, 130.87",1900,2,16,FALSE,FALSE
+Stratovolcano,Epi,0,833,Historical,0,0,Vanuatu,"-16.68, 168.37",1901,8,9,TRUE,TRUE
+Stratovolcano,Kelut,3,1731,Historical,0,0,Indonesia,"-7.93, 112.308",1901,5,22,FALSE,FALSE
+Stratovolcano,Pelee,4,1397,Historical,1500,1500,Martinique,"14.82, -61.17",1902,8,30,TRUE,FALSE
+Stratovolcano,Santa Maria,6,3772,Historical,2500,10000,Guatemala,"14.756, -91.552",1902,10,25,FALSE,FALSE
+Stratovolcano,Soufriere St. Vincent,4,1220,Historical,1680,1680,St. Vincent & the Grenadines,"13.33, -61.18",1902,5,7,TRUE,FALSE
+Stratovolcano,Pelee,0,1397,Historical,0,0,Martinique,"14.82, -61.17",1902,5,20,TRUE,FALSE
+Stratovolcano,Pelee,0,1397,Historical,23,23,Martinique,"14.82, -61.17",1902,5,5,TRUE,FALSE
+Stratovolcano,Tori-shima,3,403,Historical,125,125,Japan,"30.48, 140.32",1902,8,7,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,16,16,Indonesia,"-7.542, 110.442",1902,12,0,FALSE,FALSE
+Stratovolcano,Pelee,4,1397,Historical,28000,28000,Martinique,"14.82, -61.17",1902,5,8,TRUE,FALSE
+Shield volcano,Karthala,0,2361,Historical,17,17,Comoros,"-11.75, 43.38",1903,0,0,FALSE,FALSE
+Lava dome,Okataina,1,1111,Historical,4,4,New Zealand,"-38.12, 176.5",1903,8,30,FALSE,FALSE
+Shield volcano,Karthala,2,2361,Historical,1,1,Comoros,"-11.75, 43.38",1904,2,25,FALSE,FALSE
+Shield volcano,Savai'i,2,1858,Historical,0,0,Samoa,"-13.612, -172.525",1905,8,4,TRUE,FALSE
+Complex volcano,Vesuvius,2,1281,Historical,1,1,Italy,"40.821, 14.426",1905,3,10,FALSE,FALSE
+Complex volcano,Vesuvius,3,1281,Historical,350,350,Italy,"40.821, 14.426",1906,4,4,TRUE,FALSE
+Stratovolcano,Lewotobi,2,1703,Historical,1,1,Indonesia,"-8.53, 122.775",1907,9,28,FALSE,FALSE
+Shield volcano,Savai'i,0,1858,Historical,0,0,Samoa,"-13.612, -172.525",1907,10,6,TRUE,FALSE
+Shield volcano,Alayta,2,1501,Historical,0,0,Ethiopia,"12.88, 40.57",1907,8,4,FALSE,FALSE
+Submarine volcano,Unnamed,0,-500,Historical,0,0,Tonga,"-21.38, -175.65",1907,7,0,TRUE,TRUE
+Stratovolcano,"Cameroon, Mt.",2,4095,Historical,0,0,Cameroon,"4.203, 9.17",1909,4,28,FALSE,TRUE
+Stratovolcano,Semeru,2,3676,Historical,221,221,Indonesia,"-8.108, 112.92",1909,9,0,FALSE,FALSE
+Caldera,Taupo,0,760,Radiocarbon,1,1,New Zealand,"-38.82, 176.0",1910,3,20,FALSE,FALSE
+Stratovolcano,Usu,2,731,Historical,1,1,Japan,"42.53, 140.83",1910,7,25,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,0,0,Indonesia,"-8.108, 112.92",1911,11,8,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,1,1,Japan,"36.4, 138.53",1911,5,8,FALSE,FALSE
+Stratovolcano,Taal,3,400,Historical,1335,1335,Philippines,"14.002, 120.993",1911,1,30,TRUE,TRUE
+Complex volcano,Asama,2,2560,Historical,0,0,Japan,"36.4, 138.53",1911,8,15,FALSE,FALSE
+Mud volcano,Piparo,0,140,Historical,0,0,Trinidad,"10.0, -61.0",1911,11,3,TRUE,FALSE
+Shield volcano,Nyamuragira,3,3058,Historical,20,20,"Congo, DRC","-1.408, 29.2",1912,12,3,FALSE,FALSE
+Caldera,Novarupta,6,841,Historical,2,2,United States,"58.27, -155.16",1912,9,6,FALSE,FALSE
+Stratovolcano,Colima,4,3850,Historical,13,13,Mexico,"19.514, -103.62",1913,1,20,FALSE,FALSE
+Pyroclastic shield,Ambrym,3,1334,Historical,21,21,Vanuatu,"-16.25, 168.12",1913,12,6,FALSE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,0,0,Indonesia,"-8.108, 112.92",1913,6,23,FALSE,FALSE
+Complex volcano,Asama,1,2560,Historical,1,1,Japan,"36.4, 138.53",1913,5,29,FALSE,FALSE
+Stratovolcano,Awu,2,1320,Historical,0,138,Indonesia,"3.67, 125.5",1913,3,14,TRUE,TRUE
+Shield volcano,Aoba,0,1496,Historical,100,100,Vanuatu,"-15.4, 167.83",1914,0,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,4,1117,Historical,28,63,Japan,"31.58, 130.67",1914,1,12,TRUE,TRUE
+Caldera,Pago,3,742,Historical,0,0,Papua New Guinea,"-5.58, 150.52",1914,1,18,FALSE,FALSE
+Stratovolcano,White Island,0,321,Historical,11,11,New Zealand,"-37.52, 177.18",1914,9,10,FALSE,FALSE
+Stratovolcano,Tungurahua,4,5023,Historical,0,0,Ecuador,"-1.467, -78.442",1916,3,3,FALSE,FALSE
+Stratovolcano,Stromboli,3,926,Historical,0,0,Italy,"38.789, 15.213",1916,7,3,TRUE,FALSE
+Stratovolcano,San Salvador,3,1893,Historical,325,325,El Salvador,"13.736, -89.286",1917,6,7,FALSE,TRUE
+Lava dome,Okataina,1,1111,Historical,2,2,New Zealand,"-38.12, 176.5",1917,4,1,FALSE,FALSE
+Stratovolcano,"Lengai, Ol Doinyo",3,2890,Historical,0,0,Tanzania,"-2.751, 35.902",1917,1,1,FALSE,FALSE
+Stratovolcano,Calbuco,3,2003,Historical,0,0,Chile,"-41.326, -72.614",1917,4,0,FALSE,FALSE
+Submarine volcano,Banua Wuhu,3,-5,Historical,0,0,Indonesia,"3.138, 125.491",1918,7,18,TRUE,FALSE
+Subglacial volcano,Katla,4,1512,Historical,0,0,Iceland,"63.63, -19.05",1918,10,12,FALSE,FALSE
+Stratovolcano,Kelut,4,1731,Historical,5110,5110,Indonesia,"-7.93, 112.308",1919,5,19,FALSE,FALSE
+Stratovolcano,Stromboli,3,926,Historical,4,4,Italy,"38.789, 15.213",1919,5,22,TRUE,FALSE
+Stratovolcano,Nasu,0,1917,Historical,2,2,Japan,"37.12, 139.97",1919,7,6,FALSE,FALSE
+Shield volcano,Mauna Loa,0,4170,Historical,0,0,United States,"19.475, -155.608",1919,9,29,TRUE,FALSE
+Submarine volcano,Banua Wuhu,0,-5,Historical,0,0,Indonesia,"3.138, 125.491",1919,4,3,TRUE,FALSE
+Stratovolcano,Popocatepetl,1,5426,Historical,0,0,Mexico,"19.023, -98.622",1919,2,19,FALSE,FALSE
+Stratovolcano,Izalco,3,1950,Historical,0,0,El Salvador,"13.813, -89.633",1920,10,29,FALSE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,33,33,Indonesia,"-7.542, 110.442",1920,7,25,FALSE,FALSE
+Stratovolcano,Nasu,0,1917,Historical,1,1,Japan,"37.12, 139.97",1921,11,26,FALSE,FALSE
+Shield volcano,Kirishima,2,1700,Historical,1,1,Japan,"31.93, 130.87",1923,7,1,FALSE,FALSE
+Stratovolcano,Tangkubanparahu,0,2084,Historical,3,3,Indonesia,"-6.77, 107.6",1923,6,0,FALSE,FALSE
+Stratovolcano,Papandayan,1,2665,Historical,1,1,Indonesia,"-7.32, 107.73",1923,3,11,FALSE,FALSE
+Submarine volcanoes,"Cendres, Ile des",2,-20,Historical,0,0,Vietnam,"10.158, 109.014",1923,3,2,TRUE,TRUE
+Shield volcano,Kilauea,2,1222,Historical,1,1,United States,"19.425, -155.292",1924,5,10,FALSE,FALSE
+Stratovolcano,Tokachi,3,2077,Historical,144,144,Japan,"43.42, 142.68",1926,5,24,FALSE,FALSE
+Stratovolcano,Esjufjoll,1,1760,Historical,1,1,Iceland,"64.27, -16.65",1927,9,5,FALSE,FALSE
+Stratovolcano,Paluweh,3,875,Historical,98,226,Indonesia,"-8.32, 121.708",1928,8,4,TRUE,FALSE
+Stratovolcano,Etna,1,3350,Historical,5,5,Italy,"37.734, 15.004",1928,11,2,FALSE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,0,0,Philippines,"13.257, 123.685",1928,1,0,FALSE,FALSE
+Caldera,Krakatau,0,813,Historical,0,0,Indonesia,"-6.102, 105.423",1928,3,28,TRUE,FALSE
+Shield volcano,Santorini,2,329,Historical,48,48,Greece,"36.404, 25.396",1928,1,23,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,2,2565,Historical,40,40,Indonesia,"-7.2, 109.92",1928,5,13,FALSE,FALSE
+Stratovolcano,Santa Maria,3,3772,Historical,200,200,Guatemala,"14.756, -91.552",1929,11,2,FALSE,FALSE
+Stratovolcano,Calbuco,3,2003,Historical,0,0,Chile,"-41.326, -72.614",1929,1,6,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,2,2,Italy,"37.734, 15.004",1929,8,2,FALSE,FALSE
+Stratovolcano,Komaga-take,4,1140,Historical,2,2,Japan,"42.07, 140.68",1929,6,17,FALSE,FALSE
+Caldera,Krakatau,2,813,Historical,0,0,Indonesia,"-6.102, 105.423",1930,3,17,TRUE,FALSE
+Stratovolcano,Stromboli,3,926,Historical,5,6,Italy,"38.789, 15.213",1930,9,11,TRUE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,1369,1369,Indonesia,"-7.542, 110.442",1930,12,18,FALSE,FALSE
+Complex volcano,Asama,3,2560,Historical,6,6,Japan,"36.4, 138.53",1930,8,20,FALSE,FALSE
+Complex volcano,Asama,3,2560,Historical,3,3,Japan,"36.4, 138.53",1931,8,20,FALSE,FALSE
+Stratovolcano,Fuego,4,3763,Historical,0,0,Guatemala,"14.473, -90.88",1932,1,21,FALSE,FALSE
+Stratovolcano,Kusatsu-Shirane,3,2176,Historical,2,2,Japan,"36.62, 138.55",1932,10,1,FALSE,FALSE
+Stratovolcano,Merapi,0,2947,Historical,0,0,Indonesia,"-7.542, 110.442",1932,2,0,FALSE,FALSE
+Stratovolcano,Bulusan,2,1565,Historical,0,9,Philippines,"12.77, 124.05",1933,12,25,TRUE,FALSE
+Complex volcano,Hakone,0,1438,Radiocarbon,1,1,Japan,"35.22, 139.02",1933,5,10,FALSE,FALSE
+Stratovolcano,Kharimkotan,3,1145,Historical,0,2,Russia,"49.12, 154.508",1933,1,8,TRUE,FALSE
+Stratovolcano,Kuchinoerabu-jima,4,649,Historical,8,8,Japan,"30.43, 130.22",1933,12,24,FALSE,FALSE
+Stratovolcano,Hood,0,3426,Historical,1,1,United States,"45.374, -121.694",1934,0,0,FALSE,FALSE
+Complex volcano,Asama,3,2560,Historical,2,2,Japan,"36.4, 138.53",1936,2,0,FALSE,FALSE
+Stratovolcano,Llaima,2,3125,Historical,3,3,Chile,"-38.692, -71.729",1937,2,9,FALSE,FALSE
+Pyroclastic shield,Rabaul,4,688,Historical,507,507,Papua New Guinea,"-4.271, 152.203",1937,5,29,TRUE,TRUE
+Complex volcano,Asama,1,2560,Historical,0,0,Japan,"36.4, 138.53",1938,7,16,FALSE,FALSE
+Stratovolcano,Mayon,2,2462,Historical,0,0,Philippines,"13.257, 123.685",1938,6,5,FALSE,FALSE
+Stratovolcano,Bandai,0,1819,Historical,2,2,Japan,"37.6, 140.08",1938,5,9,FALSE,FALSE
+Shield volcano,Nyamuragira,1,3058,Historical,0,0,"Congo, DRC","-1.408, 29.2",1938,1,28,TRUE,FALSE
+Stratovolcano,Tori-shima,2,403,Historical,2,2,Japan,"30.48, 140.32",1939,8,17,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,1,2565,Historical,10,10,Indonesia,"-7.2, 109.92",1939,10,13,FALSE,FALSE
+Submarine volcano,Kick-'em-Jenny,1,-177,Historical,0,0,Netherlands,"12.3, -61.63",1939,7,24,TRUE,FALSE
+Stratovolcano,"Lengai, Ol Doinyo",2,2890,Historical,0,0,Tanzania,"-2.751, 35.902",1940,7,24,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],2,1784,Historical,1,1,Indonesia,"2.78, 125.48",1940,6,20,FALSE,FALSE
+Stratovolcano,Miyake-jima,2,815,Historical,11,11,Japan,"34.08, 139.53",1940,7,12,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,1,1,Japan,"36.4, 138.53",1941,7,13,FALSE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,0,0,Indonesia,"-8.108, 112.92",1941,9,21,FALSE,FALSE
+Shield volcano,"Azul, Cerro",3,1690,Historical,1,1,Ecuador,"-0.9, -91.42",1943,4,13,FALSE,FALSE
+Cinder cone,Michoacan-Guanajuato,4,3860,Historical,3,103,Mexico,"19.48, -102.25",1943,2,20,FALSE,FALSE
+Complex volcano,Vesuvius,2,1281,Historical,27,27,Italy,"40.821, 14.426",1944,3,27,FALSE,FALSE
+Stratovolcano,Stromboli,2,926,Historical,0,0,Italy,"38.789, 15.213",1944,8,20,TRUE,FALSE
+Stratovolcano,Usu,2,731,Historical,1,1,Japan,"42.53, 140.83",1944,6,23,FALSE,FALSE
+Stratovolcano,Usu,2,731,Historical,1,1,Japan,"42.53, 140.83",1944,8,26,FALSE,FALSE
+Stratovolcano,Cleveland,3,1730,Historical,1,1,United States,"52.82, -169.95",1944,6,10,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,2,2565,Historical,117,117,Indonesia,"-7.2, 109.92",1944,12,4,FALSE,FALSE
+Stratovolcano,Sakura-jima,2,1117,Historical,1,1,Japan,"31.58, 130.67",1946,1,0,FALSE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,6,6,Indonesia,"-8.108, 112.92",1946,2,0,FALSE,FALSE
+Stratovolcano,Sarychev Peak,4,1496,Historical,0,0,Russia,"48.092, 153.2",1946,11,13,TRUE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,0,0,Indonesia,"-8.108, 112.92",1946,10,29,FALSE,FALSE
+Stratovolcano,Mayon,2,2462,Historical,0,0,Philippines,"13.257, 123.685",1947,1,7,FALSE,FALSE
+Stratovolcano,Hekla,4,1491,Historical,1,1,Iceland,"63.98, -19.7",1947,11,2,FALSE,FALSE
+Stratovolcano,Akagi,0,1828,Historical,699,699,Japan,"36.53, 139.18",1947,9,16,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,11,11,Japan,"36.4, 138.53",1947,7,6,FALSE,FALSE
+Complex volcano,Iliwerung,2,1018,Historical,0,0,Indonesia,"-8.54, 123.59",1948,4,7,FALSE,FALSE
+Stratovolcano,Purace,2,4650,Historical,17,17,Colombia,"2.32, -76.4",1949,5,26,FALSE,FALSE
+Stratovolcano,Villarrica,3,2847,Historical,54,54,Chile,"-39.42, -71.93",1949,1,1,FALSE,FALSE
+Stratovolcano,Camiguin,3,1332,Historical,2,2,Philippines,"9.203, 124.673",1949,6,0,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,1,1,Japan,"36.4, 138.53",1950,9,23,FALSE,FALSE
+Stratovolcano,Camiguin,3,1332,Historical,68,68,Philippines,"9.203, 124.673",1950,9,15,FALSE,FALSE
+Stratovolcano,Semeru,1,3676,Historical,6,6,Indonesia,"-8.108, 112.92",1950,8,28,FALSE,FALSE
+Submarine volcano,Kavachi,2,-20,Historical,0,0,Solomon Is.,"-9.02, 157.95",1951,0,0,TRUE,FALSE
+Stratovolcano,Lamington,4,1680,Historical,2942,2942,Papua New Guinea,"-8.95, 148.15",1951,1,21,FALSE,FALSE
+Stratovolcano,Cosiguina,0,872,Historical,0,0,Nicaragua,"12.98, -87.57",1951,8,3,TRUE,TRUE
+Complex volcano,Hakone,0,1438,Radiocarbon,2,2,Japan,"35.22, 139.02",1951,11,5,FALSE,FALSE
+Stratovolcano,Kelut,3,1731,Historical,7,7,Indonesia,"-7.93, 112.308",1951,8,31,FALSE,FALSE
+Stratovolcano,Camiguin,3,1332,Historical,500,500,Philippines,"9.203, 124.673",1951,12,4,FALSE,FALSE
+Complex volcano,Hakone,0,1438,Radiocarbon,1,1,Japan,"35.22, 139.02",1952,3,27,FALSE,FALSE
+Submarine volcano,Myojun Knoll,2,360,Holocene,31,31,Japan,"32.1, 139.85",1952,9,24,TRUE,FALSE
+Submarine volcano,Myojun Knoll,2,360,Holocene,0,0,Japan,"32.1, 139.85",1952,9,16,TRUE,FALSE
+Submarine volcano,Myojun Knoll,2,360,Holocene,0,0,Japan,"32.1, 139.85",1952,9,26,TRUE,FALSE
+Submarine volcano,Myojun Knoll,2,360,Holocene,0,0,Japan,"32.1, 139.85",1952,9,23,TRUE,FALSE
+Compound volcano,Ambalatungan Group,1,2329,Fumarolic,12,12,Philippines,"17.32, 121.1",1952,0,0,FALSE,FALSE
+Complex volcano,St. Andrew Strait,0,270,Historical,0,0,Papua New Guinea,"-2.38, 147.35",1953,6,27,TRUE,FALSE
+Stratovolcano,Ruapehu,0,2797,Historical,151,151,New Zealand,"-39.28, 175.57",1953,12,24,FALSE,FALSE
+Submarine volcano,Myojun Knoll,2,360,Holocene,0,0,Japan,"32.1, 139.85",1953,3,11,TRUE,FALSE
+Submarine volcano,Myojun Knoll,2,360,Holocene,0,0,Japan,"32.1, 139.85",1953,3,25,TRUE,FALSE
+Complex volcano,Hakone,0,1438,Radiocarbon,10,10,Japan,"35.22, 139.02",1953,7,26,FALSE,FALSE
+Stratovolcano,Oshima,1,758,Historical,1,1,Japan,"34.73, 139.38",1953,10,5,FALSE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,64,64,Indonesia,"-7.542, 110.442",1953,3,23,FALSE,FALSE
+Complex volcano,Sirung,0,862,Historical,5,5,Indonesia,"-8.51, 124.148",1953,6,0,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,6,6,Japan,"32.88, 131.1",1953,4,27,FALSE,FALSE
+Stratovolcano,Bam,2,685,Historical,0,25,Papua New Guinea,"-3.6, 144.85",1954,8,3,FALSE,FALSE
+Stratovolcano,Camiguin,0,1332,Historical,2,2,Philippines,"9.203, 124.673",1954,0,0,FALSE,FALSE
+Stratovolcano,Tate-yama,0,2621,Historical,1,1,Japan,"36.57, 137.6",1954,7,21,FALSE,FALSE
+Stratovolcano,Stromboli,0,926,Historical,0,0,Italy,"38.789, 15.213",1954,2,0,TRUE,FALSE
+Stratovolcano,Sakura-jima,3,1117,Historical,0,0,Japan,"31.58, 130.67",1955,10,13,FALSE,FALSE
+Pyroclastic cone,Carran-Los Venados,4,1114,Historical,2,2,Chile,"-40.35, -72.07",1955,7,26,FALSE,FALSE
+Stratovolcano,Bezymianny,5,2882,Historical,0,0,Russia,"55.978, 160.587",1956,3,30,TRUE,FALSE
+Caldera,Aso,2,1592,Historical,12,12,Japan,"32.88, 131.1",1957,10,0,FALSE,FALSE
+Complex volcano,Unzen,0,1500,Historical,13,13,Japan,"32.75, 130.3",1957,7,0,FALSE,FALSE
+Stratovolcano,Oshima,2,758,Historical,1,1,Japan,"34.73, 139.38",1957,8,0,FALSE,FALSE
+Stratovolcano,Vsevidof,2,2149,Historical,0,0,United States,"53.13, -168.68",1957,3,11,FALSE,TRUE
+Stratovolcano,Daisetsu,0,2290,Tephrochronology,2,2,Japan,"43.68, 142.88",1958,7,21,FALSE,FALSE
+Caldera,Kuwae,2,-2,Historical,0,0,Vanuatu,"-16.829, 168.536",1958,10,7,TRUE,FALSE
+Stratovolcano,Mahawu,2,1324,Historical,1,1,Indonesia,"1.358, 124.858",1958,7,12,FALSE,FALSE
+Stratovolcano,Puyehue,3,2236,Holocene,0,0,Chile,"-40.59, -72.117",1960,5,25,TRUE,TRUE
+Stratovolcano,Calbuco,3,2003,Historical,0,0,Chile,"-41.326, -72.614",1961,1,25,FALSE,FALSE
+Complex volcano,Asama,2,2560,Historical,1,1,Japan,"36.4, 138.53",1961,8,18,FALSE,FALSE
+Stratovolcano,Daisetsu,0,2290,Tephrochronology,2,2,Japan,"43.68, 142.88",1961,6,18,FALSE,FALSE
+Stratovolcano,Merapi,3,2947,Historical,6,6,Indonesia,"-7.542, 110.442",1961,5,8,FALSE,FALSE
+Stratovolcano,Tate-yama,0,2621,Historical,1,1,Japan,"36.57, 137.6",1961,4,23,FALSE,FALSE
+Stratovolcano,Tokachi,3,2077,Historical,5,5,Japan,"43.42, 142.68",1962,6,29,FALSE,FALSE
+Stratovolcano,Gamalama,2,1715,Historical,5,5,Indonesia,"0.8, 127.325",1962,12,31,FALSE,FALSE
+Stratovolcano,Merapi,0,2947,Historical,2,2,Indonesia,"-7.542, 110.442",1962,10,0,FALSE,FALSE
+Stratovolcano,Agung,5,3142,Historical,1028,1028,Indonesia,"-8.342, 115.508",1963,3,18,TRUE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,1,1,Indonesia,"-8.108, 112.92",1963,5,5,FALSE,FALSE
+Stratovolcano,Fuego,3,3763,Historical,7,7,Guatemala,"14.473, -90.88",1963,9,28,FALSE,FALSE
+Stratovolcano,Irazu,3,3432,Historical,40,40,Costa Rica,"9.979, -83.852",1963,12,10,FALSE,FALSE
+Stratovolcano,Irazu,3,3432,Historical,15,15,Costa Rica,"9.979, -83.852",1963,3,17,FALSE,FALSE
+Stratovolcano,Villarrica,2,2847,Historical,0,0,Chile,"-39.42, -71.93",1963,5,21,FALSE,FALSE
+Stratovolcano,Agung,3,3142,Historical,120,120,Indonesia,"-8.342, 115.508",1963,5,16,FALSE,TRUE
+Caldera,Batur,2,1717,Historical,2,2,Indonesia,"-8.242, 115.375",1963,9,5,FALSE,FALSE
+Stratovolcano,Paluweh,2,875,Historical,1,1,Indonesia,"-8.32, 121.708",1964,1,1,FALSE,FALSE
+Stratovolcano,Villarrica,2,2847,Historical,25,25,Chile,"-39.42, -71.93",1964,3,3,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,1,2565,Historical,114,114,Indonesia,"-7.2, 109.92",1964,12,13,FALSE,FALSE
+Stratovolcano,Taal,4,400,Historical,355,355,Philippines,"14.002, 120.993",1965,9,28,TRUE,FALSE
+Submarine volcano,Kick-'em-Jenny,0,-177,Historical,0,0,Netherlands,"12.3, -61.63",1965,10,24,TRUE,FALSE
+Stratovolcano,Awu,4,1320,Historical,39,39,Indonesia,"3.67, 125.5",1966,8,12,FALSE,FALSE
+Stratovolcano,Kelut,4,1731,Historical,215,215,Indonesia,"-7.93, 112.308",1966,4,26,FALSE,FALSE
+Stratovolcano,"Lengai, Ol Doinyo",4,2890,Historical,0,0,Tanzania,"-2.751, 35.902",1966,8,14,FALSE,FALSE
+Stratovolcano,Tinakula,3,851,Historical,0,0,Solomon Is.,"-10.38, 165.8",1966,1,13,TRUE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,3,3,Indonesia,"-8.108, 112.92",1967,8,31,FALSE,FALSE
+Caldera,Deception Island,3,576,Historical,0,0,Antarctica,"-62.97, -60.65",1967,12,4,TRUE,FALSE
+Stratovolcano,"Lengai, Ol Doinyo",3,2890,Historical,0,0,Tanzania,"-2.751, 35.902",1967,7,8,FALSE,FALSE
+Stratovolcano,Arenal,3,1657,Historical,80,80,Costa Rica,"10.463, -84.703",1968,7,29,FALSE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,6,6,Philippines,"13.257, 123.685",1968,4,21,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,3,3,Indonesia,"-7.542, 110.442",1969,1,7,FALSE,FALSE
+Stratovolcano,Iya,3,637,Historical,2,2,Indonesia,"-8.88, 121.63",1969,1,28,FALSE,FALSE
+Caldera,Narugo,0,462,Historical,1,1,Japan,"38.73, 140.73",1969,8,26,FALSE,FALSE
+Compound volcano,Didicas,2,244,Historical,0,3,Philippines,"19.077, 122.202",1969,3,21,TRUE,FALSE
+Caldera,Campi Flegrei,0,458,Historical,3,3,Italy,"40.827, 14.139",1970,3,2,FALSE,FALSE
+Stratovolcano,Hekla,3,1491,Historical,0,0,Iceland,"63.98, -19.7",1970,5,5,FALSE,FALSE
+Stratovolcano,Villarrica,2,2847,Historical,15,15,Chile,"-39.42, -71.93",1971,10,29,FALSE,FALSE
+Stratovolcano,Fuego,3,3763,Historical,10,10,Guatemala,"14.473, -90.88",1971,9,14,FALSE,FALSE
+Stratovolcano,Tinakula,2,851,Historical,0,0,Solomon Is.,"-10.38, 165.8",1971,9,6,TRUE,FALSE
+Stratovolcano,La Palma,2,2426,Historical,0,0,Spain,"28.58, -17.83",1971,10,26,FALSE,FALSE
+Stratovolcano,Kusatsu-Shirane,0,2176,Historical,6,6,Japan,"36.62, 138.55",1971,12,27,FALSE,FALSE
+Stratovolcano,"Hudson, Cerro",3,1905,Historical,5,3,Chile,"-45.9, -72.97",1971,8,12,FALSE,FALSE
+Shield volcano,"Fournaise, Piton de la",2,2631,Historical,3,3,Reunion,"-21.229, 55.713",1972,6,9,FALSE,FALSE
+Stratovolcano,Ritter Island,1,140,Historical,0,0,Papua New Guinea,"-5.52, 148.121",1972,10,9,TRUE,FALSE
+Complex volcano,Hakone,0,1438,Radiocarbon,2,2,Japan,"35.22, 139.02",1972,10,2,FALSE,FALSE
+Complex volcano,Iliwerung,2,1018,Historical,2,2,Indonesia,"-8.54, 123.59",1973,12,5,FALSE,FALSE
+Submarine volcano,Vestmannaeyjar,3,279,Historical,1,1,Iceland,"63.43, -20.28",1973,1,27,FALSE,FALSE
+Stratovolcano,"Hudson, Cerro",0,1905,Historical,2,2,Chile,"-45.9, -72.97",1973,4,5,FALSE,FALSE
+Stratovolcano,Paluweh,3,875,Historical,0,0,Indonesia,"-8.32, 121.708",1973,1,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,3,1117,Historical,3,3,Japan,"31.58, 130.67",1974,6,17,FALSE,FALSE
+Stratovolcano,Fuego,4,3763,Historical,0,0,Guatemala,"14.473, -90.88",1974,10,10,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],3,1784,Historical,4,4,Indonesia,"2.78, 125.48",1974,2,11,FALSE,FALSE
+Stratovolcano,Sakura-jima,3,1117,Historical,5,5,Japan,"31.58, 130.67",1974,8,9,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,9,9,Indonesia,"-7.542, 110.442",1974,10,22,FALSE,FALSE
+Stratovolcano,Ritter Island,1,140,Historical,0,0,Papua New Guinea,"-5.52, 148.121",1974,10,17,TRUE,FALSE
+Lava dome,Niigata-Yake-yama,2,2400,Historical,3,3,Japan,"36.92, 138.03",1974,7,28,FALSE,FALSE
+Stratovolcano,Arenal,3,1657,Historical,2,2,Costa Rica,"10.463, -84.703",1975,6,17,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,2,United States,"19.425, -155.292",1975,11,29,TRUE,TRUE
+Complex volcano,Marapi,2,2891,Historical,80,80,Indonesia,"-0.381, 100.473",1975,1,0,FALSE,FALSE
+Stratovolcano,Kusatsu-Shirane,0,2176,Historical,3,3,Japan,"36.62, 138.55",1976,8,3,FALSE,FALSE
+Stratovolcano,Sangay,3,5230,Historical,2,2,Ecuador,"-2.03, -78.33",1976,8,12,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],2,1784,Historical,1,1,Indonesia,"2.78, 125.48",1976,9,15,FALSE,FALSE
+Stratovolcano,Semeru,2,3676,Historical,119,119,Indonesia,"-8.108, 112.92",1976,8,31,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,29,29,Indonesia,"-7.542, 110.442",1976,11,25,FALSE,FALSE
+Caldera,Krafla,1,650,Historical,0,0,Iceland,"65.73, -16.78",1977,4,27,FALSE,FALSE
+Stratovolcano,Kliuchevskoi,3,4835,Historical,1,1,Russia,"56.057, 160.638",1977,8,2,FALSE,FALSE
+Stratovolcano,Usu,3,731,Historical,3,3,Japan,"42.53, 140.83",1977,8,7,FALSE,FALSE
+Stratovolcano,Nyiragongo,1,3470,Historical,0,0,"Congo, DRC","-1.52, 29.25",1977,1,10,FALSE,FALSE
+Shield volcano,Karthala,0,2361,Historical,0,0,Comoros,"-11.75, 43.38",1977,4,5,FALSE,FALSE
+Stratovolcano,Tangkubanparahu,0,2084,Historical,3,3,Indonesia,"-6.77, 107.6",1978,0,0,FALSE,FALSE
+Stratovolcano,Usu,3,731,Historical,3,3,Japan,"42.53, 140.83",1978,1,13,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,12,12,Indonesia,"-8.108, 112.92",1978,9,19,FALSE,FALSE
+Stratovolcano,Santa Maria,3,3772,Historical,1,1,Guatemala,"14.756, -91.552",1978,9,2,FALSE,FALSE
+Stratovolcano,Bulusan,2,1565,Historical,0,0,Philippines,"12.77, 124.05",1978,7,29,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,1,2565,Historical,149,149,Indonesia,"-7.2, 109.92",1979,2,20,FALSE,FALSE
+Stratovolcano,Soufriere St. Vincent,3,1220,Historical,2,2,St. Vincent & the Grenadines,"13.33, -61.18",1979,4,13,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,9,9,Italy,"37.734, 15.004",1979,7,5,FALSE,FALSE
+Complex volcano,Iliwerung,0,1018,Historical,0,1239,Indonesia,"-8.54, 123.59",1979,7,18,TRUE,FALSE
+Caldera,Aso,2,1592,Historical,3,3,Japan,"32.88, 131.1",1979,9,6,FALSE,FALSE
+Stratovolcano,Karkar,2,1839,Historical,2,2,Papua New Guinea,"-4.649, 145.964",1979,3,8,FALSE,FALSE
+Stratovolcano,Hood,0,3426,Historical,1,1,United States,"45.374, -121.694",1980,12,25,FALSE,FALSE
+Stratovolcano,Hekla,3,1491,Historical,0,0,Iceland,"63.98, -19.7",1980,8,17,FALSE,FALSE
+Stratovolcano,St. Helens,5,2549,Historical,57,61,United States,"46.2, -122.18",1980,5,18,TRUE,TRUE
+Stratovolcano,Alaid,2,2339,Historical,0,0,Russia,"50.858, 155.55",1981,4,27,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,372,372,Indonesia,"-8.108, 112.92",1981,5,14,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,1,1,Indonesia,"-8.108, 112.92",1981,3,29,FALSE,FALSE
+Stratovolcano,Mayon,0,2462,Historical,200,200,Philippines,"13.257, 123.685",1981,6,30,FALSE,FALSE
+Stratovolcano,Paluweh,2,875,Historical,0,0,Indonesia,"-8.32, 121.708",1981,9,5,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,0,0,Italy,"37.734, 15.004",1981,3,17,FALSE,FALSE
+Stratovolcano,Vilyuchik,0,2173,Tephrochronology,0,0,Russia,"52.68, 158.3",1981,0,0,FALSE,FALSE
+Tuff cone,"Chichon, El",5,1150,Historical,1,1,Mexico,"17.36, -93.228",1982,5,27,FALSE,FALSE
+Stratovolcano,Galunggung,4,2168,Historical,68,68,Indonesia,"-7.25, 108.05",1982,5,17,FALSE,FALSE
+Tuff cone,"Chichon, El",5,1150,Historical,33,33,Mexico,"17.36, -93.228",1982,4,4,FALSE,FALSE
+Tuff cone,"Chichon, El",5,1150,Historical,1879,1879,Mexico,"17.36, -93.228",1982,3,29,FALSE,TRUE
+Stratovolcano,Miyake-jima,3,815,Historical,0,0,Japan,"34.08, 139.53",1983,10,3,FALSE,TRUE
+Complex volcano,Iliwerung,1,1018,Historical,0,0,Indonesia,"-8.54, 123.59",1983,8,17,TRUE,FALSE
+Stratovolcano,Colo [Una Una],4,507,Historical,0,0,Indonesia,"-0.17, 121.608",1983,7,23,FALSE,FALSE
+Stratovolcano,Kliuchevskoi,2,4835,Historical,1,1,Russia,"56.057, 160.638",1983,3,8,FALSE,FALSE
+Stratovolcano,Mayon,3,2462,Historical,1,1,Philippines,"13.257, 123.685",1984,9,9,FALSE,FALSE
+Stratovolcano,Etna,3,3350,Historical,1,1,Italy,"37.734, 15.004",1984,10,16,FALSE,FALSE
+Maar,Oku Volc Field,0,3011,Radiocarbon,37,37,Cameroon,"6.25, 10.5",1984,8,15,FALSE,FALSE
+Complex volcano,On-take,0,3063,Historical,29,29,Japan,"35.9, 137.48",1984,9,14,FALSE,FALSE
+Stratovolcano,Ruiz,3,5321,Historical,23080,23080,Colombia,"4.895, -75.322",1985,11,13,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,70,70,Indonesia,"-8.108, 112.92",1985,5,10,FALSE,FALSE
+Stratovolcano,Etna,1,3350,Historical,1,1,Italy,"37.734, 15.004",1985,12,19,FALSE,FALSE
+Stratovolcano,Oshima,3,758,Historical,1,1,Japan,"34.73, 139.38",1986,11,15,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,1,1,Indonesia,"-7.542, 110.442",1986,10,15,FALSE,FALSE
+Maar,Oku Volc Field,3,3011,Radiocarbon,1700,1700,Cameroon,"6.25, 10.5",1986,8,21,FALSE,FALSE
+Complex volcano,Akita-Yake-yama,0,1366,Historical,1,1,Japan,"39.97, 140.77",1986,5,8,FALSE,FALSE
+Stratovolcano,Stromboli,2,926,Historical,1,1,Italy,"38.789, 15.213",1986,7,24,FALSE,FALSE
+Complex volcano,Sirung,0,862,Historical,0,125,Indonesia,"-8.51, 124.148",1987,12,1,FALSE,TRUE
+Stratovolcano,Etna,2,3350,Historical,2,2,Italy,"37.734, 15.004",1987,4,17,FALSE,FALSE
+Complex volcano,Pacaya,3,2552,Historical,0,0,Guatemala,"14.381, -90.601",1987,1,25,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,1,1,Indonesia,"-8.108, 112.92",1988,7,30,FALSE,FALSE
+Stratovolcano,Lonquimay,3,2865,Historical,1,1,Chile,"-38.377, -71.58",1988,12,25,FALSE,FALSE
+Caldera,Banda Api,3,640,Historical,4,4,Pacific Ocean,"-4.525, 129.871",1988,5,9,FALSE,FALSE
+Stratovolcano,Arenal,3,1657,Historical,1,1,Costa Rica,"10.463, -84.703",1988,7,6,FALSE,FALSE
+Complex volcano,Akita-Yake-yama,0,1366,Historical,3,3,Japan,"39.97, 140.77",1988,0,0,FALSE,FALSE
+Caldera,Aso,0,1592,Historical,1,1,Japan,"32.88, 131.1",1989,2,12,FALSE,FALSE
+Shield volcano,Kirishima,0,1700,Historical,2,2,Japan,"31.93, 130.87",1989,8,26,FALSE,FALSE
+Stratovolcano,Shiveluch,3,3283,Historical,0,0,Russia,"56.653, 161.36",1990,2,2,FALSE,FALSE
+Pyroclastic shield,Rabaul,0,688,Historical,6,6,Papua New Guinea,"-4.271, 152.203",1990,6,24,FALSE,FALSE
+Stratovolcano,Nyiragongo,0,3470,Historical,1,1,"Congo, DRC","-1.52, 29.25",1990,11,21,FALSE,FALSE
+Stratovolcano,Kelut,0,1731,Historical,4,4,Indonesia,"-7.93, 112.308",1990,11,25,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,1,1,Japan,"32.88, 131.1",1990,4,18,FALSE,FALSE
+Stratovolcano,Santa Maria,3,3772,Historical,4,4,Guatemala,"14.756, -91.552",1990,7,19,FALSE,FALSE
+Stratovolcano,Kelut,4,1731,Historical,32,32,Indonesia,"-7.93, 112.308",1990,2,10,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,1,1,Japan,"32.88, 131.1",1990,10,19,FALSE,FALSE
+Caldera,Aso,2,1592,Historical,1,1,Japan,"32.88, 131.1",1990,3,26,FALSE,FALSE
+Stratovolcano,Sabancaya,3,5967,Historical,0,0,Peru,"-15.78, -71.85",1990,5,29,FALSE,FALSE
+Complex volcano,Mutnovsky,0,2322,Historical,1,1,Russia,"52.453, 158.195",1991,6,0,FALSE,FALSE
+Complex volcano,Unzen,1,1500,Historical,43,43,Japan,"32.75, 130.3",1991,6,3,FALSE,FALSE
+Stratovolcano,Pinatubo,6,1486,Historical,350,800,Philippines,"15.13, 120.35",1991,6,15,FALSE,TRUE
+Stratovolcano,Etna,2,3350,Historical,0,0,Italy,"37.734, 15.004",1991,12,14,FALSE,FALSE
+Stratovolcano,"Hudson, Cerro",5,1905,Historical,0,0,Chile,"-45.9, -72.97",1991,8,8,FALSE,FALSE
+Shield volcano,Karthala,2,2361,Historical,0,0,Comoros,"-11.75, 43.38",1991,7,3,FALSE,FALSE
+Stratovolcano,Lokon-Empung,1,1580,Historical,1,1,Indonesia,"1.358, 124.792",1991,10,24,FALSE,FALSE
+Stratovolcano,Pinatubo,1,1486,Historical,6,6,Philippines,"15.13, 120.35",1992,7,12,FALSE,FALSE
+Complex volcano,Marapi,2,2891,Historical,1,1,Indonesia,"-0.381, 100.473",1992,7,5,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,3,3,Indonesia,"-8.108, 112.92",1992,0,0,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,0,2565,Historical,1,1,Indonesia,"-7.2, 109.92",1992,3,18,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],1,1784,Historical,6,6,Indonesia,"2.78, 125.48",1992,5,11,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],2,1784,Historical,2,2,Indonesia,"2.78, 125.48",1992,1,21,FALSE,FALSE
+Stratovolcano,Spurr,4,3374,Historical,1,1,United States,"61.3, -152.25",1992,9,17,FALSE,FALSE
+Cinder cone,"Negro, Cerro",3,728,Historical,11,11,Nicaragua,"12.506, -86.702",1992,4,10,FALSE,FALSE
+Stratovolcano,Guagua Pichincha,1,4784,Historical,2,2,Ecuador,"-0.171, -78.598",1993,3,12,FALSE,FALSE
+Complex volcano,Galeras,2,4276,Historical,9,9,Colombia,"1.22, -77.37",1993,1,14,FALSE,FALSE
+Stratovolcano,Mayon,2,2462,Historical,75,75,Philippines,"13.257, 123.685",1993,2,2,FALSE,FALSE
+Stratovolcano,Wurlali,0,868,Historical,1,1,Indonesia,"-7.125, 128.675",1993,1,21,FALSE,FALSE
+Complex volcano,Unzen,1,1500,Historical,1,1,Japan,"32.75, 130.3",1993,6,23,FALSE,FALSE
+Stratovolcano,Pinatubo,1,1486,Historical,4,4,Philippines,"15.13, 120.35",1993,6,26,FALSE,FALSE
+Caldera,Krakatau,1,813,Historical,1,1,Indonesia,"-6.102, 105.423",1993,6,13,FALSE,FALSE
+Stratovolcano,Pinatubo,0,1486,Historical,14,14,Philippines,"15.13, 120.35",1993,10,4,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,1,1,United States,"19.425, -155.292",1993,4,19,FALSE,FALSE
+Pyroclastic shield,Rabaul,3,688,Historical,4,4,Papua New Guinea,"-4.271, 152.203",1994,9,19,TRUE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,6,6,Indonesia,"-8.108, 112.92",1994,2,3,FALSE,FALSE
+Stratovolcano,Yasur,3,361,Historical,1,1,Vanuatu,"-19.52, 169.425",1994,1,15,FALSE,FALSE
+Stratovolcano,Huila,0,5365,Historical,0,650,Colombia,"2.92, -76.05",1994,6,6,FALSE,TRUE
+Stratovolcano,Merapi,3,2947,Historical,60,60,Indonesia,"-7.542, 110.442",1994,11,22,FALSE,FALSE
+Stratovolcano,Rinjani,3,3726,Historical,31,31,Indonesia,"-8.42, 116.47",1994,11,3,FALSE,FALSE
+Caldera,Aso,1,1592,Historical,1,1,Japan,"32.88, 131.1",1994,5,29,FALSE,FALSE
+Stratovolcano,Parker,0,1824,Historical,60,60,Philippines,"6.12, 124.892",1995,9,6,FALSE,FALSE
+Complex volcano,Pacaya,3,2552,Historical,1,1,Guatemala,"14.381, -90.601",1995,4,7,FALSE,FALSE
+Stratovolcano,Fogo,2,2829,Historical,0,0,Cape Verde,"14.95, -24.35",1995,4,2,FALSE,FALSE
+Stratovolcano,Yasur,3,361,Historical,2,2,Vanuatu,"-19.52, 169.425",1995,2,4,FALSE,FALSE
+Complex volcano,Kelimutu,0,1640,Historical,1,1,Indonesia,"-8.758, 121.83",1995,5,15,FALSE,FALSE
+Stratovolcano,Yake-dake,1,2455,Historical,4,4,Japan,"36.22, 137.58",1995,2,11,FALSE,FALSE
+Stratovolcano,Kanlaon,2,2435,Historical,3,3,Philippines,"10.412, 123.132",1996,8,10,FALSE,FALSE
+Caldera,Grimsvotn,3,1725,Historical,0,0,Iceland,"64.42, -17.33",1996,9,30,FALSE,FALSE
+Stratovolcano,Manam,3,1807,Historical,13,13,Papua New Guinea,"-4.1, 145.061",1996,12,3,FALSE,FALSE
+Stratovolcano,Maderas,0,1394,Holocene,6,6,Nicaragua,"11.446, -85.515",1996,9,27,FALSE,FALSE
+Stratovolcano,Popocatepetl,3,5426,Historical,5,5,Mexico,"19.023, -98.622",1996,4,30,FALSE,FALSE
+Stratovolcano,Karymsky,2,1536,Historical,0,0,Russia,"54.05, 159.43",1996,1,2,TRUE,FALSE
+Stratovolcano,Soufriere Hills,3,915,Historical,2,2,Montserrat,"16.72, -62.18",1997,8,1,FALSE,FALSE
+Stratovolcano,Soufriere Hills,3,915,Historical,22,22,Montserrat,"16.72, -62.18",1997,6,25,FALSE,FALSE
+Stratovolcano,Soufriere Hills,0,915,Historical,0,0,Montserrat,"16.72, -62.18",1997,12,26,TRUE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,6,6,Indonesia,"-7.542, 110.442",1997,1,14,FALSE,FALSE
+Stratovolcano,Hakkoda Group,0,1585,Holocene,3,3,Japan,"40.65, 140.88",1997,7,12,FALSE,FALSE
+Stratovolcano,Adatara,0,1718,Historical,4,4,Japan,"37.62, 140.28",1997,9,15,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],1,1784,Historical,3,3,Indonesia,"2.78, 125.48",1997,4,17,FALSE,FALSE
+Caldera,Aso,0,1592,Historical,2,2,Japan,"32.88, 131.1",1997,11,23,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,2,2,Indonesia,"-8.108, 112.92",1997,9,2,FALSE,FALSE
+Stratovolcano,Kelut,0,1731,Historical,10,10,Indonesia,"-7.93, 112.308",1998,7,0,FALSE,FALSE
+Stratovolcano,San Cristobal,0,1745,Historical,1620,1620,Nicaragua,"12.702, -87.004",1998,10,30,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,1,0,United States,"19.425, -155.292",1998,4,28,FALSE,FALSE
+Stratovolcano,Tungurahua,3,5023,Historical,1,1,Ecuador,"-1.467, -78.442",1999,10,16,FALSE,FALSE
+Stratovolcano,Guagua Pichincha,3,4784,Historical,2,2,Ecuador,"-0.171, -78.598",1999,10,5,FALSE,FALSE
+Stratovolcano,Shiveluch,4,3283,Historical,0,0,Russia,"56.653, 161.36",1999,8,15,FALSE,FALSE
+Stratovolcano,Fuego,2,3763,Historical,0,0,Guatemala,"14.473, -90.88",1999,5,21,FALSE,FALSE
+Stratovolcano,Soufriere Hills,3,915,Historical,0,0,Montserrat,"16.72, -62.18",1999,1,20,TRUE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,2,2,United States,"19.425, -155.292",2000,11,3,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,1,1,Indonesia,"-7.542, 110.442",2000,11,0,FALSE,FALSE
+Stratovolcano,Arenal,3,1657,Historical,2,2,Costa Rica,"10.463, -84.703",2000,8,23,FALSE,FALSE
+Stratovolcano,Miyake-jima,2,815,Historical,0,1,Japan,"34.08, 139.53",2000,6,27,TRUE,TRUE
+Stratovolcano,Semeru,3,3676,Historical,2,2,Indonesia,"-8.108, 112.92",2000,7,27,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,0,0,Italy,"37.734, 15.004",2001,7,26,FALSE,FALSE
+Stratovolcano,Merapi,2,2947,Historical,2,2,Indonesia,"-7.542, 110.442",2001,8,5,FALSE,FALSE
+Stratovolcano,Etna,3,3350,Historical,1,1,Italy,"37.734, 15.004",2001,5,14,FALSE,FALSE
+Stratovolcano,Stromboli,2,926,Historical,1,1,Italy,"38.789, 15.213",2001,10,20,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],3,1784,Historical,0,0,Indonesia,"2.78, 125.48",2002,1,3,FALSE,FALSE
+Stratovolcano,Semeru,3,3676,Historical,3,3,Indonesia,"-8.108, 112.92",2002,0,0,FALSE,FALSE
+Stratovolcano,Nyiragongo,1,3470,Historical,100,100,"Congo, DRC","-1.52, 29.25",2002,1,17,FALSE,FALSE
+Stratovolcano,Reventador,4,3562,Historical,0,0,Ecuador,"-0.078, -77.656",2002,11,3,FALSE,FALSE
+Stratovolcano,Stromboli,0,926,Historical,0,0,Italy,"38.789, 15.213",2002,12,30,TRUE,FALSE
+Stratovolcano,Etna,3,3350,Historical,0,0,Italy,"37.734, 15.004",2002,8,28,FALSE,TRUE
+Stratovolcano,Soufriere Hills,3,915,Historical,0,0,Montserrat,"16.72, -62.18",2003,7,12,TRUE,FALSE
+Stratovolcano,Manam,4,1807,Historical,5,5,Papua New Guinea,"-4.1, 145.061",2004,10,24,FALSE,FALSE
+Stratovolcano,Egon,1,1703,Historical,1,1,Indonesia,"-8.67, 122.45",2004,1,29,FALSE,FALSE
+Stratovolcano,Tengger Caldera,2,2329,Historical,2,0,Indonesia,"-7.942, 112.95",2004,6,8,FALSE,FALSE
+Shield volcano,Karthala,0,2361,Historical,0,0,Comoros,"-11.75, 43.38",2005,11,24,FALSE,FALSE
+Stratovolcano,Santa Ana,3,2365,Historical,2,2,El Salvador,"13.853, -89.63",2005,10,1,FALSE,FALSE
+Stratovolcano,Manam,4,1807,Historical,1,1,Papua New Guinea,"-4.1, 145.061",2005,1,27,FALSE,FALSE
+Stratovolcano,Merapi,1,2947,Historical,2,2,Indonesia,"-7.542, 110.442",2006,6,14,FALSE,FALSE
+Stratovolcano,Soufriere Hills,2,915,Historical,0,0,Montserrat,"16.72, -62.18",2006,5,20,TRUE,FALSE
+Stratovolcano,Tungurahua,3,5023,Historical,1,1,Ecuador,"-1.467, -78.442",2006,7,18,FALSE,FALSE
+Stratovolcano,Raoul Island,0,516,Historical,1,1,New Zealand,"-29.27, -177.92",2006,3,17,FALSE,FALSE
+Stratovolcano,Bulusan,2,1565,Historical,1,1,Philippines,"12.77, 124.05",2006,6,7,FALSE,FALSE
+Stratovolcano,Mayon,1,2462,Historical,1266,1266,Philippines,"13.257, 123.685",2006,11,30,FALSE,FALSE
+Stratovolcano,Tungurahua,3,5023,Historical,5,6,Ecuador,"-1.467, -78.442",2006,8,17,FALSE,FALSE
+Stratovolcano,"Tair, Jebel at",0,244,Historical,7,7,Yemen,"15.7, 41.742",2007,9,30,FALSE,FALSE
+Stratovolcano,Manam,4,1807,Historical,4,4,Papua New Guinea,"-4.1, 145.061",2007,3,0,FALSE,FALSE
+Stratovolcano,Salak,0,2211,Historical,6,6,Indonesia,"-6.72, 106.73",2007,7,7,FALSE,FALSE
+Stratovolcano,Huila,0,5365,Historical,0,0,Colombia,"2.92, -76.05",2007,4,18,FALSE,FALSE
+Caldera,Chaiten,0,962,Holocene,1,1,Chile,"-42.833, -72.646",2008,5,2,FALSE,FALSE
+Stratovolcano,Tungurahua,3,5023,Historical,2,2,Ecuador,"-1.467, -78.442",2008,8,22,FALSE,FALSE
+Stratovolcano,Huila,0,5365,Historical,10,10,Colombia,"2.92, -76.05",2008,11,20,FALSE,FALSE
+Stratovolcano,Kasatochi,3,314,Historical,0,0,United States,"52.18, -175.5",2008,8,8,TRUE,FALSE
+Stratovolcano,Redoubt,0,3108,Historical,0,0,United States,"60.48, -152.75",2009,3,23,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",2009,11,30,FALSE,FALSE
+Complex volcano,Pacaya,1,2552,Historical,1,1,Guatemala,"14.381, -90.601",2010,5,27,FALSE,FALSE
+Stratovolcano,Eyjafjallajokull,2,1666,Historical,2,2,Iceland,"63.63, -19.62",2010,3,31,FALSE,FALSE
+Stratovolcano,Tengger Caldera,0,2329,Historical,0,0,Indonesia,"-7.942, 112.95",2010,12,28,FALSE,FALSE
+Stratovolcano,Tungurahua,3,5023,Historical,0,0,Ecuador,"-1.467, -78.442",2010,11,0,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],3,1784,Historical,4,4,Indonesia,"2.78, 125.48",2010,8,6,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,2,2,Indonesia,"3.17, 98.392",2010,8,30,FALSE,FALSE
+Stratovolcano,Merapi,0,2947,Historical,367,367,Indonesia,"-7.542, 110.442",2010,10,26,FALSE,FALSE
+Stratovolcano,Tungurahua,3,5023,Historical,0,0,Ecuador,"-1.467, -78.442",2010,1,0,FALSE,FALSE
+Stratovolcano,Sarigan,0,538,Holocene,0,0,United States,"16.708, 145.78",2010,5,29,TRUE,TRUE
+Stratovolcano,Puyehue,4,2236,Holocene,0,0,Chile,"-40.59, -72.117",2011,6,4,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],0,1784,Historical,0,0,Indonesia,"2.78, 125.48",2011,3,18,FALSE,FALSE
+Stratovolcano,Lokon-Empung,0,1580,Historical,1,1,Indonesia,"1.358, 124.792",2011,7,17,FALSE,FALSE
+Shield volcano,Kirishima,0,1700,Historical,0,0,Japan,"31.93, 130.87",2011,1,28,FALSE,FALSE
+Stratovolcano,Nabro,3,2218,Holocene,31,31,Eritrea,"13.37, 41.7",2011,6,22,FALSE,FALSE
+Stratovolcano,Gamalama,3,1715,Historical,4,4,Indonesia,"0.8, 127.325",2011,12,27,FALSE,FALSE
+Stratovolcano,Tungurahua,4,5023,Historical,0,0,Ecuador,"-1.467, -78.442",2011,4,0,FALSE,FALSE
+Stratovolcano,Merapi,0,2947,Historical,1,1,Indonesia,"-7.542, 110.442",2011,1,3,FALSE,FALSE
+Subglacial volcano,Katla,0,1512,Historical,0,0,Iceland,"63.63, -19.05",2011,7,9,FALSE,FALSE
+Stratovolcano,Bulusan,2,1565,Historical,1,1,Philippines,"12.77, 124.05",2011,2,23,FALSE,FALSE
+Shield volcano,Tolbachik,0,3682,Historical,0,0,Russia,"55.83, 160.33",2012,12,12,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",2012,3,2,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",2012,2,10,FALSE,FALSE
+Stratovolcano,Ubinas,0,5672,Historical,0,0,Peru,"-16.355, -70.903",2013,9,1,FALSE,FALSE
+Stratovolcano,Mayon,0,2462,Historical,5,5,Philippines,"13.257, 123.685",2013,5,7,FALSE,FALSE
+Stratovolcano,Paluweh,0,875,Historical,0,0,Indonesia,"-8.32, 121.708",2013,2,0,FALSE,FALSE
+Stratovolcano,Sakura-jima,0,1117,Historical,0,0,Japan,"31.58, 130.67",2013,9,4,FALSE,FALSE
+Stratovolcano,Merapi,0,2947,Historical,1,1,Indonesia,"-7.542, 110.442",2013,2,12,FALSE,FALSE
+Stratovolcano,Sinabung,2,2460,Holocene,0,0,Indonesia,"3.17, 98.392",2013,9,15,FALSE,FALSE
+Stratovolcano,Paluweh,3,875,Historical,5,5,Indonesia,"-8.32, 121.708",2013,8,10,FALSE,FALSE
+Lava dome,Okataina,0,1111,Historical,1,1,New Zealand,"-38.12, 176.5",2013,12,13,FALSE,FALSE
+Stratovolcano,Kelut,0,1731,Historical,7,7,Indonesia,"-7.93, 112.308",2014,2,13,FALSE,FALSE
+Complex volcano,On-take,3,3063,Historical,55,55,Japan,"35.9, 137.48",2014,9,27,FALSE,FALSE
+Stratovolcano,Gamalama,0,1715,Historical,1,1,Indonesia,"0.8, 127.325",2014,12,18,FALSE,FALSE
+Stratovolcano,Fogo,0,2829,Historical,0,0,Cape Verde,"14.95, -24.35",2014,11,23,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",2014,11,10,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,17,17,Indonesia,"3.17, 98.392",2014,2,1,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,0,0,Indonesia,"3.17, 98.392",2015,2,20,FALSE,FALSE
+Stratovolcano,Calbuco,0,2003,Historical,0,0,Chile,"-41.326, -72.614",2015,4,22,FALSE,FALSE
+Stratovolcano,Karangetang [Api Siau],0,1784,Historical,0,0,Indonesia,"2.78, 125.48",2015,5,7,FALSE,FALSE
+Lava dome,Okataina,0,1111,Historical,1,1,New Zealand,"-38.12, 176.5",2015,10,0,FALSE,FALSE
+Stratovolcano,Manam,2,1807,Historical,0,0,Papua New Guinea,"-4.1, 145.061",2015,7,31,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,1,1,Indonesia,"3.17, 98.392",2015,10,16,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,1,1,Indonesia,"3.17, 98.392",2016,5,9,FALSE,FALSE
+Stratovolcano,Rinjani,0,3726,Historical,0,0,Indonesia,"-8.42, 116.47",2016,9,27,FALSE,FALSE
+Caldera,Yellowstone,0,2805,Tephrochronology,1,1,United States,"44.43, -110.67",2016,6,9,FALSE,FALSE
+Caldera,Aso,0,1592,Historical,0,0,Japan,"32.88, 131.1",2016,10,8,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,7,7,Indonesia,"3.17, 98.392",2016,5,21,FALSE,FALSE
+Stratovolcano,Sinabung,2,2460,Holocene,0,0,Indonesia,"3.17, 98.392",2017,4,13,FALSE,FALSE
+Stratovolcano,Etna,0,3350,Historical,0,0,Italy,"37.734, 15.004",2017,3,15,FALSE,FALSE
+Complex volcano,Dieng Volc Complex,0,2565,Historical,8,8,Indonesia,"-7.2, 109.92",2017,7,1,FALSE,FALSE
+Stratovolcano,Merapi,0,2947,Historical,8,8,Indonesia,"-7.542, 110.442",2017,12,18,FALSE,FALSE
+Stratovolcano,Fuego,2,3763,Historical,0,0,Guatemala,"14.473, -90.88",2017,6,6,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,0,0,Indonesia,"3.17, 98.392",2017,12,27,FALSE,FALSE
+Shield volcano,Aoba,0,1496,Historical,0,0,Vanuatu,"-15.4, 167.83",2017,9,23,FALSE,FALSE
+Caldera,Campi Flegrei,0,458,Historical,3,3,Italy,"40.827, 14.139",2017,9,12,FALSE,FALSE
+Stratovolcano,Kadovar,0,365,Holocene,0,0,Papua New Guinea,"-3.62, 144.62",2018,1,5,FALSE,FALSE
+Stratovolcano,Etna,2,3350,Historical,0,0,Italy,"37.734, 15.004",2018,12,26,FALSE,TRUE
+Stratovolcano,Fuego,2,3763,Historical,201,201,Guatemala,"14.473, -90.88",2018,6,3,FALSE,FALSE
+Pyroclastic shield,Ambrym,2,1334,Historical,0,0,Vanuatu,"-16.25, 168.12",2018,12,15,FALSE,TRUE
+Shield volcano,Kilauea,1,1222,Historical,0,0,United States,"19.425, -155.292",2018,4,28,TRUE,TRUE
+Stratovolcano,Kusatsu-Shirane,0,2176,Historical,1,1,Japan,"36.62, 138.55",2018,1,23,FALSE,FALSE
+Stratovolcano,Manam,4,1807,Historical,0,0,Papua New Guinea,"-4.1, 145.061",2018,8,25,FALSE,FALSE
+Shield volcano,Kilauea,0,1222,Historical,0,0,United States,"19.425, -155.292",2018,7,16,FALSE,FALSE
+Stratovolcano,Kadovar,0,365,Holocene,0,0,Papua New Guinea,"-3.62, 144.62",2018,2,9,TRUE,FALSE
+Shield volcano,Aoba,3,1496,Historical,4,4,Vanuatu,"-15.4, 167.83",2018,3,30,FALSE,FALSE
+Shield volcano,Kilauea,1,1222,Historical,1,1,United States,"19.425, -155.292",2018,2,1,FALSE,FALSE
+Caldera,Krakatau,1,813,Historical,0,437,Indonesia,"-6.102, 105.423",2018,12,22,TRUE,FALSE
+Stratovolcano,Mayon,0,2462,Historical,0,0,Philippines,"13.257, 123.685",2018,1,13,FALSE,FALSE
+Stratovolcano,Ijen,0,2799,Historical,0,0,Indonesia,"-8.058, 114.242",2018,3,21,FALSE,FALSE
+Stratovolcano,Sinabung,0,2460,Holocene,0,0,Indonesia,"3.17, 98.392",2019,5,7,FALSE,FALSE
+Stratovolcano,Manam,4,1807,Historical,0,0,Papua New Guinea,"-4.1, 145.061",2019,1,7,FALSE,FALSE
+Stratovolcano,Stromboli,2,926,Historical,1,1,Italy,"38.789, 15.213",2019,7,3,FALSE,FALSE
+Stratovolcano,Stromboli,2,926,Historical,0,0,Italy,"38.789, 15.213",2019,8,28,TRUE,FALSE
+Stratovolcano,White Island,2,321,Historical,21,21,New Zealand,"-37.52, 177.18",2019,12,9,FALSE,FALSE
+Stratovolcano,Manam,4,1807,Historical,0,0,Papua New Guinea,"-4.1, 145.061",2019,6,28,FALSE,FALSE
+Stratovolcano,Ulawun,0,2334,Historical,0,0,Papua New Guinea,"-5.05, 151.33",2019,6,26,FALSE,FALSE
+Stratovolcano,Ijen,0,2799,Historical,1,1,Indonesia,"-8.058, 114.242",2020,5,29,TRUE,TRUE
+Stratovolcano,Taal,0,400,Historical,0,0,Philippines,"14.002, 120.993",2020,1,12,FALSE,FALSE
